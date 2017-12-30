@@ -1,10 +1,10 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Emma Macey
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [December 30th, Saturday, 2017].
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Sketched on paper my layout for my Guess the DOCTOR WHO game, found some new Javascript to Add to the code, experimented with background images for the, and tried to resize my CSS TARDIS, to make it more responsive. 
 
 ### R1D2
