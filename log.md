@@ -9,17 +9,17 @@
 
 **Link to work:** [Doctor Who Guess Who game](https://github.com/macey26/dr-who-tardis-game)
 
-<!--### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: December 31st, 2017 
 
 
-### Day 1: June 27, Monday
+**Today's Progress**: Worked on the CSS to resize the TARDIS, I am getting closer to finishing off the resize, to suit the new layout.
+
+**Thoughts**: So Tired after work could barely see through my tired eyes, but pushed through it and made a bit of progress. So glad i got through some of it
+
+**Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game/commit/ca61579b7c3fd78021ede6d08c524efd15bc78c4)
+
+
+<!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
