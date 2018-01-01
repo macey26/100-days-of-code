@@ -19,6 +19,15 @@
 **Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game/commit/ca61579b7c3fd78021ede6d08c524efd15bc78c4)
 
 
+### Day 3: January 1st, 2018 
+
+
+**Today's Progress**: Completed the resize for the CSS TARDIS, tried to figure out how to make a handle and lock purely with CSS. I hope to get started on that tomorrow.
+
+**Thoughts**: I worried about not being very fast at completing the task, but if I look back I am saving more time by doing less searching to find out the best property to use in the CSS 
+
+**Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
