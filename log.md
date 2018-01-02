@@ -28,6 +28,15 @@
 
 **Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
 
+### Day 4: January 2nd, 2018 
+
+
+**Today's Progress**: Made a CSS lock for the CSS TARDIS and changed the heading. Also working throught The Odin Project Javascript lessons.
+
+**Thoughts**: I am really happy with the CSS lock and impressed I could figure out how the CSS for it. I will just need to resize it. 
+
+**Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.

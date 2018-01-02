@@ -13,3 +13,6 @@ I worked on resizing my CSS TARDIS today to suit the new layout. Had some diffic
 
 ### R1D3 
 I was able to complete the resizing of my CSS TARDIS, it took more time than i thought, but i got it done. Then I spent some time trying to figure out how to create a door handle and lock with only CSS I will see how that goes tomorrow. #100DaysOfCode
+
+### R1D4
+Made a CSS lock for the CSS TARDIS and changed the heading. Hope to have the handles made tomorrow. Also working throught The Odin Project lessons and really enjoying the content.
