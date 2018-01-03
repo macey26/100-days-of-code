@@ -37,6 +37,15 @@
 
 **Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
 
+### Day 5: January 3rd, 2018 
+
+
+**Today's Progress**: Made a handle using CSS today. It was very small and hard to position. Worked on getting the lock and handle fixed into position, it still needs work, but I'm getting there.
+
+**Thoughts**: It seems like I am taking my time to get the work done, but I feel like I am learning so much about CSS. 
+
+**Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.

@@ -16,3 +16,6 @@ I was able to complete the resizing of my CSS TARDIS, it took more time than i t
 
 ### R1D4
 Made a CSS lock for the CSS TARDIS and changed the heading. Hope to have the handles made tomorrow. Also working throught The Odin Project lessons and really enjoying the content.
+
+### R1D5
+Made a handle using CSS today. It was very small and hard to position. It seems like I am taking my time to get the work done, but I am learning so much about CSS, thanks  to The Odin project and #100DaysOfCode  
