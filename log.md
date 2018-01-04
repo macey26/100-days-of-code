@@ -46,6 +46,15 @@
 
 **Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
 
+### Day 6: January 4th, 2018 
+
+
+**Today's Progress**: Updated to Ubuntu 17.10, spent time using command line to configure and install new drivers etc. Also completed setting my lock and handle in place on the CSS TARDIS
+
+**Thoughts**: I got stuck with the installing of drivers etc, because I wanted to do some code, but realised when in command line I was using code, it was just a different language.
+
+**Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.

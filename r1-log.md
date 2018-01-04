@@ -19,3 +19,8 @@ Made a CSS lock for the CSS TARDIS and changed the heading. Hope to have the han
 
 ### R1D5
 Made a handle using CSS today. It was very small and hard to position. It seems like I am taking my time to get the work done, but I am learning so much about CSS, thanks  to The Odin project and #100DaysOfCode  
+
+### R1D6
+ Updated to Ubuntu 17.10, spent time using command line to configure and install new drivers etc. Also completed setting my lock and handle in place on the CSS TARDIS project have been working on.
+
+ I got stuck with the installing of drivers etc, because I wanted to do some code, but realised when in command line I was using code, it was just a different language.
