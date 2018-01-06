@@ -55,6 +55,16 @@
 
 **Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
 
+### Day 7: January 6th, 2018 
+
+
+**Today's Progress**: I managed to do 50 minutes of The Odin Project Javascript assignemts Yesterday.
+Today I spent a few hours completing the JavaScript assignments for the Fundamentals part 2 lessons.
+
+**Thoughts**: I found it difficult to complete the assignments at first and had a sense of failure, until I figured out how to convert a string into a number and solved it. Then I was impressed with my effort and had a little hope that I can learn Javascript.
+
+**Link(s) to work**: [The Odin Project](https://www.theodinproject.com/courses/web-development-101)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.

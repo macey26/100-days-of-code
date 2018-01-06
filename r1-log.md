@@ -24,3 +24,7 @@ Made a handle using CSS today. It was very small and hard to position. It seems 
  Updated to Ubuntu 17.10, spent time using command line to configure and install new drivers etc. Also completed setting my lock and handle in place on the CSS TARDIS project have been working on.
 
  I got stuck with the installing of drivers etc, because I wanted to do some code, but realised when in command line I was using code, it was just a different language.
+
+ ### R1D7
+ Today I spent a few hours completing the JavaScript assignments for the Fundamentals part 2 lessons.
+ I found it difficult to complete the assignments at first and had a sense of failure, until I figured out how to convert a string into a number and solved it. Then I was impressed with my effort and had a little hope that I can actually learn Javascript.
