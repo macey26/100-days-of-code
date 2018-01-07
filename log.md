@@ -65,6 +65,15 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**: [The Odin Project](https://www.theodinproject.com/courses/web-development-101)
 
+### Day 8: January 7th, 2018 
+
+
+**Today's Progress**: Spent some time adding buttons and content to the CSS TARDIS game, to get ready to apply DOM Code to Javascript. 
+
+**Thoughts**:I am happy with the progress I have made so far, getting nervous about adding in the Javascript, because I am worried I will Ruin it.
+
+**Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
