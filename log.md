@@ -74,6 +74,15 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
 
+### Day 9: January 8th, 2018 
+
+
+**Today's Progress**: Did some editing of the javascript for the Guess who game and tried to learn more about DOM so the javascript alter HTML for the game to be interactive. I also tried to figure out if I can use switch approriately instead of using loads of If else statements.
+
+**Thoughts**:I was frustrated with the switch statements, so moved onto the DOM and felt so much better with the dom. I really enjoyed the content for DOM on the odin project
+
+**Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.

@@ -30,5 +30,10 @@ Made a handle using CSS today. It was very small and hard to position. It seems 
  I found it difficult to complete the assignments at first and had a sense of failure, until I figured out how to convert a string into a number and solved it. Then I was impressed with my effort and had a little hope that I can actually learn Javascript.
 
 ### R1D8
- Spent some time adding buttons and content to the CSS TARDIS game, getting ready to apply javascript to the DOM. I'm a little nervous about that, but I'm looking forward to making progress.   
+ Spent some time adding buttons and content to the CSS TARDIS game, getting ready to apply javascript to the DOM. I'm a little nervous about that, but I'm looking forward to making progress. 
+
+### R1D9
+ Started editing the javascript for the Guess who game. I tried to learn more about DOM, so i can alter the HTML and make the game interactive. I also tried to figure out if I can use switch approriately instead of using loads of If else statements.
+
+ 
 
