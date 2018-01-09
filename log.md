@@ -83,12 +83,12 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**: [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
 
-<!--### Day 1: June 27, Monday
+### Day 10: December 9th, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I spent some time learning about DOM manipulation in the odin Project and working on some of the assignments. Also some software difficulties on my computer, so has some fun with command line.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Really annoyed with my computer problems, but glad i could do some command line. I think I am slowly getting the DOM
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+ [DOM manupulation Assignment The Odin Project](https://github.com/macey26/assignment-practice)
+

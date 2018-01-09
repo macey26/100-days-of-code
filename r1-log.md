@@ -34,6 +34,10 @@ Made a handle using CSS today. It was very small and hard to position. It seems 
 
 ### R1D9
  Started editing the javascript for the Guess who game. I tried to learn more about DOM, so i can alter the HTML and make the game interactive. I also tried to figure out if I can use switch approriately instead of using loads of If else statements.
+### R1D10
+Today I spent some time learning about DOM manipulation the odin Project and working on some of the assignments. 
+https://github.com/macey26/assignment-practice
+Also some software difficulties on my computer, so has some fun with command line.
 
  
 
