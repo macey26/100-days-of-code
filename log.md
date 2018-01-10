@@ -92,3 +92,12 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 **Link(s) to work**
  [DOM manupulation Assignment The Odin Project](https://github.com/macey26/assignment-practice)
 
+### Day 11: December 10th, 2018
+
+**Today's Progress**: Today I did some more work on my Javascript game and learned some more DOM manipulation for the game too.
+
+**Thoughts** I am worried I won't be able to apply what I am learning to the Game. 
+
+**Link(s) to work**
+ [DOM manupulation Assignment The Odin Project](https://github.com/macey26/assignment-practice)
+ [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)

@@ -39,5 +39,7 @@ Today I spent some time learning about DOM manipulation the odin Project and wor
 https://github.com/macey26/assignment-practice
 Also some software difficulties on my computer, so has some fun with command line.
 
+### R1D11
+Today I did some more work on my Javascript game and learned some more DOM manipulation for the game in @The Odin Project. I am worried I won't be able to apply what I am learning to the Game.
  
 
