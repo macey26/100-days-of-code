@@ -42,4 +42,5 @@ Also some software difficulties on my computer, so has some fun with command lin
 ### R1D11
 Today I did some more work on my Javascript game and learned some more DOM manipulation for the game in @The Odin Project. I am worried I won't be able to apply what I am learning to the Game.
  
-
+###R1D12
+ Still learning more about DOM manipulation for my project today. I am still not sure I am understanding how to apply what I am learning to my project. I hope it sinks in after I get through all the DOM rescources on the Odin project 
