@@ -44,3 +44,7 @@ Today I did some more work on my Javascript game and learned some more DOM manip
  
 ###R1D12
  Still learning more about DOM manipulation for my project today. I am still not sure I am understanding how to apply what I am learning to my project. I hope it sinks in after I get through all the DOM rescources on the Odin project 
+### R1D13
+I completed some Javascript function practice and started the rock paper scissors project on the Odin Project. 
+
+I am looking forward to doing the project because I think I will learn a lot of things I can apply to my Dr who game

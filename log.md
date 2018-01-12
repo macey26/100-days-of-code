@@ -111,3 +111,13 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 **Link(s) to work**
  [DOM manupulation Assignment The Odin Project](https://github.com/macey26/assignment-practice)
  [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
+
+ ### Day 13: January 12th, 2018
+
+**Today's Progress**: I completed some Javascript function practice and started the rock paper scissors project on the Odin Project. 
+
+**Thoughts** I am looking forward to doing the project because I think I will learn a lot of things I can apply to my Dr who game
+
+**Link(s) to work**
+ [Function Practice Assignment The Odin Project](https://github.com/macey26/assignment-practice/blob/master/function-practice.html)
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
