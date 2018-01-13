@@ -46,5 +46,8 @@ Today I did some more work on my Javascript game and learned some more DOM manip
  Still learning more about DOM manipulation for my project today. I am still not sure I am understanding how to apply what I am learning to my project. I hope it sinks in after I get through all the DOM rescources on the Odin project 
 ### R1D13
 I completed some Javascript function practice and started the rock paper scissors project on the Odin Project. 
+I am looking forward to doing the project because I think I will learn a lot of things I can apply to my Dr who game.
 
-I am looking forward to doing the project because I think I will learn a lot of things I can apply to my Dr who game
+###R1D14
+I created my first function for the rock, paper, scissors game. The function randomly generates a number between 0 an 2 using math.random. I had a lot of syntax errors at first, but found a sense of relief when worked.   
+

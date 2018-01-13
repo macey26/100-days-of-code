@@ -112,7 +112,7 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
  [DOM manupulation Assignment The Odin Project](https://github.com/macey26/assignment-practice)
  [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
 
- ### Day 13: January 12th, 2018
+### Day 13: January 12th, 2018
 
 **Today's Progress**: I completed some Javascript function practice and started the rock paper scissors project on the Odin Project. 
 
@@ -120,4 +120,13 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**
  [Function Practice Assignment The Odin Project](https://github.com/macey26/assignment-practice/blob/master/function-practice.html)
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+ ### Day 14: January 13th, 2018
+
+**Today's Progress**: I created my first function for the rock, paper, scissors game. The function randomly generates a number between 0 an 2 using math.random.    
+
+**Thoughts** It took a while to make my function and i had a lot of syntax errors, but i felt like i was able to understand its purpose and how it works. Glad i got throught that one.
+
+**Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
