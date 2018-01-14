@@ -51,3 +51,6 @@ I am looking forward to doing the project because I think I will learn a lot of 
 ###R1D14
 I created my first function for the rock, paper, scissors game. The function randomly generates a number between 0 an 2 using math.random. I had a lot of syntax errors at first, but found a sense of relief when worked.   
 
+###R1D15
+Today I created another function for my rock, paper, scissors project and tried to add a switch statement to the code.   
+My head has been spinning in circles trying to figure out the code, but I am excited that I'm understanding some of what I am doing.

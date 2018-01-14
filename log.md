@@ -122,11 +122,20 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
  [Function Practice Assignment The Odin Project](https://github.com/macey26/assignment-practice/blob/master/function-practice.html)
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
 
- ### Day 14: January 13th, 2018
+### Day 14: January 13th, 2018
 
 **Today's Progress**: I created my first function for the rock, paper, scissors game. The function randomly generates a number between 0 an 2 using math.random.    
 
 **Thoughts** It took a while to make my function and i had a lot of syntax errors, but i felt like i was able to understand its purpose and how it works. Glad i got throught that one.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+ ### Day 15: January 14th, 2018
+
+**Today's Progress**: Today I created another function for my rock, paper, scissors project and tried to add a switch statement to the code.   
+
+**Thoughts** My head has been spinning in circles trying to figure out the code, but I am excited that I'm understanding what I am doing.
 
 **Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
