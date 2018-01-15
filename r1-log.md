@@ -54,3 +54,6 @@ I created my first function for the rock, paper, scissors game. The function ran
 ###R1D15
 Today I created another function for my rock, paper, scissors project and tried to add a switch statement to the code.   
 My head has been spinning in circles trying to figure out the code, but I am excited that I'm understanding some of what I am doing.
+
+###R1D16
+Spent some more time on switch statement for the rock paper scissors project. Also practiced some functions and DOM manipulation to my DR who game.  

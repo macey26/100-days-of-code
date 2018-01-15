@@ -131,7 +131,7 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 **Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
 
- ### Day 15: January 14th, 2018
+### Day 15: January 14th, 2018
 
 **Today's Progress**: Today I created another function for my rock, paper, scissors project and tried to add a switch statement to the code.   
 
@@ -139,3 +139,14 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 16: January 15th, 2018
+
+**Today's Progress**: Spent some more time on switch statement for the rock paper scissors project. Also practiced some functions and DOM manipulation to my DR who game.  
+
+**Thoughts** Feel like a got a lot done, but at the same time felt i was going in circles.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+ [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
+
