@@ -150,3 +150,30 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
  [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)
 
+
+### Day 17: January 16th, 2018
+
+**Today's Progress**: Doing some work with functions, for the rock paper scissors game. Im am not sure I understand function returns or scope yet. I guess I can learn more tomorrow. 
+
+**Thoughts** Feel a little defeated by today, but made some good progress on a few things.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 18: January 17th, 2018
+
+**Today's Progress**: Working on my rock paper scissors project, learning more about functions and conditionals as I go.  
+
+**Thoughts** Slowly slowly, I am determinded not to give up on it.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 19: January 18th, 2018
+
+**Today's Progress**: Stuck on a function, it keeps returning undefined when I run it, spent hours trying to make it work and its probably the simplest solution. Can anyone see what I have done wrong? 
+
+**Thoughts** I feel a little defeated and loopy today, but might be better tomorrow.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 

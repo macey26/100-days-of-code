@@ -57,3 +57,16 @@ My head has been spinning in circles trying to figure out the code, but I am exc
 
 ###R1D16
 Spent some more time on switch statement for the rock paper scissors project. Also practiced some functions and DOM manipulation to my DR who game.  
+
+###R1D17
+Doing some work with functions, for the rock paper scissors game. Im am not sure I understand function returns or scope yet. I guess I can learn more tomorrow. 
+
+Feel a little defeated by today, but made some good progress on a few things.
+
+###R1D18 Working on my rock paper scissors project, learning more about functions and conditionals as I go.  
+
+its going slowly slowly, but I am determinded not to give up on it.
+
+### R1D19 Stuck on a function, it keeps returning undefined when I run it, spent hours on it work and its probably the simplest solution. Can anyone see what I have done wrong? 
+(https://github.com/macey26/rock-paper-scissors) 
+
