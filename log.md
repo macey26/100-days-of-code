@@ -177,3 +177,22 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+
+### Day 20: January 19th, 2018
+
+**Today's Progress**: Thanks to @fultonium helping me with my function return, I was able to complete the script for that function and create the next function for my Rock paper scissors game. 
+
+**Thoughts** I feel a real sense of accomplishment and I feel greater understanding of functions and conditionals.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 21: January 20th, 2018
+
+**Today's Progress**: Spent some time making a loop for my Rock Paper Scissors game, that was interesting. Also read some of scope and Closures from the @YDKJS series.
+
+**Thoughts** I think i am understanding what it is that I need to do with most of the code at this stage.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 

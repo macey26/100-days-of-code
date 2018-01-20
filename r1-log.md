@@ -63,10 +63,18 @@ Doing some work with functions, for the rock paper scissors game. Im am not sure
 
 Feel a little defeated by today, but made some good progress on a few things.
 
-###R1D18 Working on my rock paper scissors project, learning more about functions and conditionals as I go.  
+###R1D18
+ Working on my rock paper scissors project, learning more about functions and conditionals as I go.  
 
 its going slowly slowly, but I am determinded not to give up on it.
 
-### R1D19 Stuck on a function, it keeps returning undefined when I run it, spent hours on it work and its probably the simplest solution. Can anyone see what I have done wrong? 
+### R1D19 
+Stuck on a function, it keeps returning undefined when I run it, spent hours on it work and its probably the simplest solution. Can anyone see what I have done wrong? 
 (https://github.com/macey26/rock-paper-scissors) 
 
+### R1D20
+Thanks to @fultonium helping me with my function return, I was able to complete the script for that function and create the next function for my Rock paper scissors game. 
+I feel a real sense of accomplishment and I feel i understand functions and conditionals a whole lot better.
+
+### R1D21
+Spent some time making a loop for my Rock Paper Scissors game, that was interesting. Also read some of Scope and Closures from the @YDKJS series.
