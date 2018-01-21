@@ -196,3 +196,12 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 22: January 21th, 2018
+
+**Today's Progress**: I completed the console version of my rock paper scissors game.
+
+**Thoughts** I was so excited about getting through it, its made my day.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 

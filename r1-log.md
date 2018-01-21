@@ -78,3 +78,7 @@ I feel a real sense of accomplishment and I feel i understand functions and cond
 
 ### R1D21
 Spent some time making a loop for my Rock Paper Scissors game, that was interesting. Also read some of Scope and Closures from the @YDKJS series.
+
+### R1D22
+I completed the console version of my rock paper scissors game.
+I was so excited about getting through it, its made my day.
