@@ -82,3 +82,10 @@ Spent some time making a loop for my Rock Paper Scissors game, that was interest
 ### R1D22
 I completed the console version of my rock paper scissors game.
 I was so excited about getting through it, its made my day.
+
+###R1D23
+Learnt about clean code and cleaned up the code for my Rock Paper Scissors game. I think I am getting a well rounded education @theOdinProject
+
+###R1D24
+I spend some time learning arrays on @theOdinProject and started working on functions for my Dr Who Game. Looking forward to 3 weeks off work and more time to code.
+

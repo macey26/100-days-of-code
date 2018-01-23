@@ -197,7 +197,7 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 **Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
 
-### Day 22: January 21th, 2018
+### Day 22: January 21st, 2018
 
 **Today's Progress**: I completed the console version of my rock paper scissors game.
 
@@ -205,3 +205,21 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 23: January 22nd, 2018
+
+**Today's Progress**: Learnt about clean code and cleaned up the code for my Rock Paper Scissors game.
+
+**Thoughts** I feel like I am making progress again.
+
+**Link(s) to work**
+ [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+ ### Day 24: January 23rd, 2018
+
+**Today's Progress**: Learnt some more about arrays on @theOdinProject and created some functions for mr DR Who game
+
+**Thoughts** I need to focus on my game regularly, because otherwise I forget where to start.
+
+**Link(s) to work**
+ [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)]
