@@ -215,11 +215,20 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 **Link(s) to work**
  [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
 
- ### Day 24: January 23rd, 2018
+### Day 24: January 23rd, 2018
 
 **Today's Progress**: Learnt some more about arrays on @theOdinProject and created some functions for mr DR Who game
 
 **Thoughts** I need to focus on my game regularly, because otherwise I forget where to start.
+
+**Link(s) to work**
+ [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)]
+
+### Day 25: January 24th, 2018
+
+**Today's Progress**: I spents some time learning more about loops in javascript and added more functions to my DR WHO game.
+
+**Thoughts** I feel like I have made some real progress with my Dr WHO game in the last 24 hours
 
 **Link(s) to work**
  [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)]

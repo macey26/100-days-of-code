@@ -89,3 +89,7 @@ Learnt about clean code and cleaned up the code for my Rock Paper Scissors game.
 ###R1D24
 I spend some time learning arrays on @theOdinProject and started working on functions for my Dr Who Game. Looking forward to 3 weeks off work and more time to code.
 
+###R1D25
+I spents some time learning more about loops in javascript and added more functions to my DR WHO game.
+Trying to figure out how to apply a loop the game too.
+
