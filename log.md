@@ -232,3 +232,12 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**
  [Doctor Who guess who app](https://github.com/macey26/dr-who-tardis-game)]
+
+### Day 26: January 25th, 2018
+
+**Today's Progress**: I did some exercises using while loops and started some practiced test driven development exercises @theOdinProject. Im off camping for the next 3 days with my @YDKJS scopes and closures books. 
+
+**Thoughts** I wasn't very focused today, but tried to get in over an hour.
+
+**Link(s) to work**
+  

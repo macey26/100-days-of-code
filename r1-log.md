@@ -93,3 +93,6 @@ I spend some time learning arrays on @theOdinProject and started working on func
 I spents some time learning more about loops in javascript and added more functions to my DR WHO game.
 Trying to figure out how to apply a loop the game too.
 
+###R1D26
+I did some exercises using while loops and started some practiced test driven development exercises @theOdinProject. I'm off camping for the next 3 days with my @YDKJS Scopes and Closures book.
+
