@@ -96,3 +96,10 @@ Trying to figure out how to apply a loop the game too.
 ###R1D26
 I did some exercises using while loops and started some practiced test driven development exercises @theOdinProject. I'm off camping for the next 3 days with my @YDKJS Scopes and Closures book.
 
+###R1D27 Read about block scope & hoisting in @YDKJS Scope & Closures. It has been a challenge to find space and time while camping, but I did it.
+
+### R1D28
+Spent some time reading about closures @YDKJS also did some reading up on loops. 
+
+### R1D29
+Spent some time reading more about loops and did some loop practice in the console. 

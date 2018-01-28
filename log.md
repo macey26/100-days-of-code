@@ -240,4 +240,28 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 **Thoughts** I wasn't very focused today, but tried to get in over an hour.
 
 **Link(s) to work**
+
+### Day 27: January 26th, 2018
+
+**Today's Progress**: Read about block scope & hoisting in @YDKJS Scope & Closures. It has been a challenge to find space and time while camping, but I did it.
+
+**Thoughts** Glad I found some time to code on my birthday
+
+**Link(s) to work**
+
+### Day 28: January 27th, 2018
+
+**Today's Progress**: Spent some time reading about closures @YDKJS also did some reading up on loops. 
+
+**Thoughts** Really difficult to find space and time to code with so many people around
+
+**Link(s) to work**
+
+### Day 29: January 28th, 2018
+
+**Today's Progress**: Spent some time reading more about loops and did some loop practice in the console. 
+
+**Thoughts** So glad to be home and in front of my computer again. 
+
+**Link(s) to work**
   
