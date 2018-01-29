@@ -103,3 +103,7 @@ Spent some time reading about closures @YDKJS also did some reading up on loops.
 
 ### R1D29
 Spent some time reading more about loops and did some loop practice in the console. 
+
+### R1D30
+I spent some time trying to install jasmine.js on Ubuntu, found it challenging because npm is having issues, I worked through a jasmine tutorial to get the idea of how it works.
+

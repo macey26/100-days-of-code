@@ -265,3 +265,10 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 
 **Link(s) to work**
   
+### Day 30: January 29th, 2018
+
+**Today's Progress**: I spent some time trying to install jasmine.js on Ubuntu, found it challenging because npm is still having issues, I worked through a jasmine tutorial to get the idea of how it works
+
+**Thoughts** Installing things can be really frustrating 
+
+**Link(s) to work**
