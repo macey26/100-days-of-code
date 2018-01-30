@@ -272,3 +272,14 @@ Today I spent a few hours completing the JavaScript assignments for the Fundamen
 **Thoughts** Installing things can be really frustrating 
 
 **Link(s) to work**
+
+### Day 31: January 30th, 2018
+
+**Today's Progress**: I was able to install jasmine.js  with some help from @NickWilde1990
+and @v8areU (thanks to both of you) I got started on the @theOdinProject #javascript exercises
+#100DaysOfCode
+ 
+**Thoughts** I was so happy when I finished installing jasmine
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+

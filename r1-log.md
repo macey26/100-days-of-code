@@ -107,3 +107,9 @@ Spent some time reading more about loops and did some loop practice in the conso
 ### R1D30
 I spent some time trying to install jasmine.js on Ubuntu, found it challenging because npm is having issues, I worked through a jasmine tutorial to get the idea of how it works.
 
+###R1D31
+I was able to install jasmine.js  with some help from @NickWilde1990
+and @v8areU (thanks to both of you) I got started on the @theOdinProject #javascript exercises
+#100DaysOfCode
+
+
