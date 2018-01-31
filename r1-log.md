@@ -112,4 +112,11 @@ I was able to install jasmine.js  with some help from @NickWilde1990
 and @v8areU (thanks to both of you) I got started on the @theOdinProject #javascript exercises
 #100DaysOfCode
 
+###R1D32
+Today I completed reverse a string and repeat a string on @theOdinProject test driven development exercises. 
+ 
+I had some serious doubts about my abilities, but was so happy when I passed all the tests
+#100DaysOfCode
+
+
 

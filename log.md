@@ -283,3 +283,13 @@ and @v8areU (thanks to both of you) I got started on the @theOdinProject #javasc
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
 
+### Day 32: January 31th, 2018
+
+**Today's Progress**: Today I completed reverse a string and repeat a string on @theOdinProject test driven development exercises. 
+#100DaysOfCode
+ 
+**Thoughts** I had some serious doubts about my abilities, but was so happy when I passed all the tests
+
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
