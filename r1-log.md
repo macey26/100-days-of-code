@@ -118,5 +118,8 @@ Today I completed reverse a string and repeat a string on @theOdinProject test d
 I had some serious doubts about my abilities, but was so happy when I passed all the tests
 #100DaysOfCode
 
+###R1D33
+Today I worked on the removeFromArray test development exercise from @theOdinProject I passed the first test, then spent time learning more about optional arguments.
+
 
 

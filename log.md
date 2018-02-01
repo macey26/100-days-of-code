@@ -293,3 +293,11 @@ and @v8areU (thanks to both of you) I got started on the @theOdinProject #javasc
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
 
+### Day 33: February 1st, 2018
+
+**Today's Progress**: Today I had worked on the removeFromArray test development array from @theOdinProject I passed the first test, then spent time learning more about optional arguments.
+
+**Thoughts** Only passed one test, but feel I am learning a great deal about Javascript.
+
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
