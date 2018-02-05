@@ -121,5 +121,12 @@ I had some serious doubts about my abilities, but was so happy when I passed all
 ###R1D33
 Today I worked on the removeFromArray test development exercise from @theOdinProject I passed the first test, then spent time learning more about optional arguments.
 
+###R1D34/D35
+Still working on removing multiple items from an array using arguments. I'm reading up on the arguments object, but not sure get it. I will keep trying. Didn't tweet yesterday there wasn't much to report.
+#100DaysOfCode 
 
+###R1D36
+My internet connection was down, so I spent some time readining @ydkjs and practicing the examples in it.
 
+###R1D37
+I spent some time reading @ydkjs and practicing the examples in it. I think this book is so helpful, in my mission learn javascript.

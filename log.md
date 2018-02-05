@@ -301,3 +301,23 @@ and @v8areU (thanks to both of you) I got started on the @theOdinProject #javasc
 
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 34: February 2nd, 2018 / ### Day 35: February 3rd, 2018
+
+**Today's Progress**:Still working on removing multiple items from an array using arguments. I'm reading up on the arguments object, but not sure get it. I will keep trying. Didn't tweet yesterday there wasn't much to report.
+
+**Thoughts** feeling a bit defeated
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 36: February 4th, 2018 
+
+**Today's Progress**:My internet connection was down, so I spent some time readining @ydkjs and practicing the examples in it.
+
+**Thoughts** Felt like I made some progress with it today.
+
+### Day 37: February 5th, 2018 
+
+**Today's Progress**:I spent some time readining @ydkjs and practicing the examples in it.
+
+**Thoughts** Had limited time but made some progress.
