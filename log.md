@@ -321,3 +321,13 @@ and @v8areU (thanks to both of you) I got started on the @theOdinProject #javasc
 **Today's Progress**:I spent some time readining @ydkjs and practicing the examples in it.
 
 **Thoughts** Had limited time but made some progress.
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 38: February 6th, 2018 
+
+**Today's Progress**:I spent more time on the removeFromArray exercise
+
+**Thoughts** I feel I am getting closer to the solution
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)

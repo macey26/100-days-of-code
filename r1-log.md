@@ -130,3 +130,8 @@ My internet connection was down, so I spent some time readining @ydkjs and pract
 
 ###R1D37
 I spent some time reading @ydkjs and practicing the examples in it. I think this book is so helpful, in my mission learn javascript.
+
+### R1D38/39
+I spent more time on the removeFromArray exercise then, finally solved it, then started on the sumAll Exercises from @TheOdinProject.
+
+Is it wrong that each time I start a new algorithm I want to peek at someone elses code to see what I am working towards? 
