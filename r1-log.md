@@ -135,3 +135,8 @@ I spent some time reading @ydkjs and practicing the examples in it. I think this
 I spent more time on the removeFromArray exercise then, finally solved it, then started on the sumAll Exercises from @TheOdinProject.
 
 Is it wrong that each time I start a new algorithm I want to peek at someone elses code to see what I am working towards? 
+
+###R1D40
+Wrote down options for  the sumAll Exercise @TheOdinProject.
+
+Not too sure I have figured out what I am doing yet, but I am going to try. 

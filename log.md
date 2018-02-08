@@ -322,12 +322,28 @@ and @v8areU (thanks to both of you) I got started on the @theOdinProject #javasc
 
 **Thoughts** Had limited time but made some progress.
 
-**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
-
 ### Day 38: February 6th, 2018 
 
 **Today's Progress**:I spent more time on the removeFromArray exercise
 
 **Thoughts** I feel I am getting closer to the solution
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 39: February 7th, 2018 
+
+**Today's Progress**:I finally solved the removeFromArray exercise, then started on the sumAll Exercises from @TheOdinProject.
+
+Is it wrong that each time I start a new algorithm I want to peek at someone elses code to see what I am working towards? 
+
+**Thoughts** So over the moon about completing the Remove from array exercise.
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 40: February 8th, 2018 
+
+**Today's Progress**:Wrote down options for  the sumAll Exercise @TheOdinProject.
+
+**Thoughts** Not too sure I have figured out what I am doing yet, but I am going to try. 
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
