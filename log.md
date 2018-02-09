@@ -347,3 +347,11 @@ Is it wrong that each time I start a new algorithm I want to peek at someone els
 **Thoughts** Not too sure I have figured out what I am doing yet, but I am going to try. 
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 41: February 9th, 2018 
+
+**Today's Progress**: Passed the first 2 tests for the sumAll Exercise @TheOdinProject. 
+
+**Thoughts** Relieved to pass the first 2 tests, but not too sure the next 2 will be as simple.
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)

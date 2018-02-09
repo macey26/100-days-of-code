@@ -140,3 +140,6 @@ Is it wrong that each time I start a new algorithm I want to peek at someone els
 Wrote down options for  the sumAll Exercise @TheOdinProject.
 
 Not too sure I have figured out what I am doing yet, but I am going to try. 
+
+###R1D41
+Passed the first 2 tests for the sumAll Exercise @TheOdinProject. Learnt a lot more about operators and loops. 
