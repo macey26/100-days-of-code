@@ -143,3 +143,6 @@ Not too sure I have figured out what I am doing yet, but I am going to try.
 
 ###R1D41
 Passed the first 2 tests for the sumAll Exercise @TheOdinProject. Learnt a lot more about operators and loops. 
+
+###R1D42
+Had a busy day out with family, but managed to spend an hour reading @YDKJS

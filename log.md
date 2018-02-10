@@ -355,3 +355,10 @@ Is it wrong that each time I start a new algorithm I want to peek at someone els
 **Thoughts** Relieved to pass the first 2 tests, but not too sure the next 2 will be as simple.
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 42: February 10th, 2018 
+
+**Today's Progress**: Had a busy day, but managed to spend an hour reading @YDKJS
+
+**Thoughts** so glad i got some time today to read
+
