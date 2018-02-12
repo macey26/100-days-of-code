@@ -362,3 +362,10 @@ Is it wrong that each time I start a new algorithm I want to peek at someone els
 
 **Thoughts** so glad i got some time today to read
 
+### Day 42/43: February 11th and 12th, 2018 
+
+**Today's Progress**: Spent some time reading YDKJS, found out more about types and Grammar
+
+**Thoughts** I am really enjoying this book series, especially when I practice the code im learning as the book suggests.
+
+

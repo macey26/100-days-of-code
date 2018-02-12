@@ -146,3 +146,7 @@ Passed the first 2 tests for the sumAll Exercise @TheOdinProject. Learnt a lot m
 
 ###R1D42
 Had a busy day out with family, but managed to spend an hour reading @YDKJS
+
+###R1D43/44
+
+Spent some time reading YDKJS, found out more about types and Grammar. I am really enjoying this book series.
