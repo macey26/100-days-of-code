@@ -362,10 +362,27 @@ Is it wrong that each time I start a new algorithm I want to peek at someone els
 
 **Thoughts** so glad i got some time today to read
 
-### Day 42/43: February 11th and 12th, 2018 
+### Day 43/44: February 11th and 12th, 2018 
 
 **Today's Progress**: Spent some time reading YDKJS, found out more about types and Grammar
 
 **Thoughts** I am really enjoying this book series, especially when I practice the code im learning as the book suggests.
+
+### Day 45/46: February 13th 14th, 2018 
+
+**Today's Progress**: Spent some time reading YDKJS, found out more about Scope
+
+**Thoughts** I feel like I am getting somethere
+
+###R1D47
+Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOfCode
+
+### Day 48: February 16th, 2018 
+
+**Today's Progress**: Passed another test for the sumAll Exercise @TheOdinProject. 
+
+**Thoughts** These exercises are getting harder to solve 
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
 
 

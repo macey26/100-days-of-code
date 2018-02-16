@@ -150,3 +150,13 @@ Had a busy day out with family, but managed to spend an hour reading @YDKJS
 ###R1D43/44
 
 Spent some time reading YDKJS, found out more about types and Grammar. I am really enjoying this book series.
+
+###R1D45/46
+Spent some time reading YDKJS, found out more about Coercion and the compiler. Reading because I am away  from home and have no reliable internet connection.
+
+###R1D47
+Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOfCode
+
+### R1D48
+Passed another test for the sumAll Exercise @TheOdinProject. 
+These exercises are getting harder to solve 
