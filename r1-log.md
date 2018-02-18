@@ -160,3 +160,9 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 ### R1D48
 Passed another test for the sumAll Exercise @TheOdinProject. 
 These exercises are getting harder to solve 
+
+### R1D49 passed the sumAll exercises and started work on the leapYears project @TheOdinProject. I also read more from @YDKJS scopes and closures.
+
+### R1D50
+I'm still working on the leap years exercise @TheOdinProject Still reading @ydkjs
+

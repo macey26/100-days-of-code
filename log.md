@@ -385,4 +385,19 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
 
+### Day 49: February 17th, 2018 
+
+**Today's Progress**: passed the sumAll exercises and started work on the leapYears project @TheOdinProject. I also read more from @YDKJS scopes and closures.
+
+**Thoughts** I really felt a sense of achievment completeing the test
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 50: February 18th, 2018 
+
+**Today's Progress**: I'm still working on the leap years exercise @TheOdinProject Still reading @ydkjs
+
+**Thoughts** I am slowly getting there.
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
 
