@@ -401,3 +401,10 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
 
+### Day 51: February 19th, 2018 
+
+**Today's Progress**: Completed all tests for leap years and started tempConversion excercise on @TheOdinProject i passed one test. 
+
+**Thoughts** Feel like I am getting closer to the end of these exercises
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)

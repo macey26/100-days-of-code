@@ -166,3 +166,7 @@ These exercises are getting harder to solve
 ### R1D50
 I'm still working on the leap years exercise @TheOdinProject Still reading @ydkjs
 
+### R1D51
+Completed all tests for leapYears and started tempConversion excercise @TheOdinProject I passed one test so far. 
+
+
