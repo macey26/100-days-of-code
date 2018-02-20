@@ -169,4 +169,9 @@ I'm still working on the leap years exercise @TheOdinProject Still reading @ydkj
 ### R1D51
 Completed all tests for leapYears and started tempConversion excercise @TheOdinProject I passed one test so far. 
 
+###R1D52
+Completed the temp conversion exercise today, which finished off all exercises for that section. I am moving onto DOM manipulation now.
+
+I was so excited to get through the last excercise, I can't belive I did it.
+
 

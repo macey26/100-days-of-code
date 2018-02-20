@@ -408,3 +408,11 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 **Thoughts** Feel like I am getting closer to the end of these exercises
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 52: February 20th, 2018 
+
+**Today's Progress**: Completed the temp conversion exercise today, which finished off all exercises for that section. I am moving onto DOM manipulation now.
+
+**Thoughts** I was so excited to get through the last excercise, I can't belive I did it.
+
+**Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
