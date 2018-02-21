@@ -416,3 +416,11 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 **Thoughts** I was so excited to get through the last excercise, I can't belive I did it.
 
 **Link(s) to work**[Javascript Exercises](https://github.com/macey26/javascript-exercises)
+
+### Day 53: February 21st, 2018 
+
+**Today's Progress**: Started learining more about DOM Manipulation @TheOdinProject, so I can apply it to my rock paper scissors game
+
+**Thoughts** I am enjoying learning it so far.
+
+**Link(s) to work**
