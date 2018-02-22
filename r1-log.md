@@ -177,4 +177,6 @@ I was so excited to get through the last excercise, I can't belive I did it.
 ###R1D53
 Started learning more about DOM Manipulation @TheOdinProject, so I can apply it to my rock paper scissors game. DOM manupulation looks like fun.
 
+###R1D54
+Practiced some DOM manipulation exercises and learnt more about eventListeners @TheOdinProject
 
