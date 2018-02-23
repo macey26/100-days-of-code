@@ -425,10 +425,18 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 
 **Link(s) to work**
 
-### Day 54: February 2nd, 2018 
+### Day 54: February 22nd, 2018 
 
 **Today's Progress**: Practiced some DOM manipulation exercises and learnt more about eventListeners @TheOdinProject
 
 **Thoughts** Feel like I am Making progress
+
+**Link(s) to work**
+
+### Day 55: February 23rd, 2018 
+
+**Today's Progress**: Started the wesbos javascript drum kit as part of learning DOM @TheOdinProject
+
+**Thoughts** I am enjoying working through the work
 
 **Link(s) to work**

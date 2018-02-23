@@ -180,3 +180,8 @@ Started learning more about DOM Manipulation @TheOdinProject, so I can apply it 
 ###R1D54
 Practiced some DOM manipulation exercises and learnt more about eventListeners @TheOdinProject
 
+###R1D55
+Started the wesbos javascript drum kit as part of learning DOM @TheOdinProject
+
+
+
