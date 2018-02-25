@@ -440,3 +440,19 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 **Thoughts** I am enjoying working through the work
 
 **Link(s) to work**
+
+### Day 56: February 24th, 2018 
+
+**Today's Progress**: Started drawing my UI for my rock paper scissors game. Trying to make it a Alex the kidd jenkin theme. lets see how I go
+
+**Thoughts** Excited about the theme and getting into it.
+
+**Link(s) to work**
+
+### Day 57: February 25th, 2018 
+
+**Today's Progress**: Worked on the layout for my ALex the kidd theme rock paper scissors game.
+
+**Thoughts** Feel like I am getting so much more work done doing the #100Daysofcode
+
+**Link(s) to work**

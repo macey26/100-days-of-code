@@ -183,5 +183,15 @@ Practiced some DOM manipulation exercises and learnt more about eventListeners @
 ###R1D55
 Started the wesbos javascript drum kit as part of learning DOM @TheOdinProject
 
+###R1D56
+Started drawing and planning my UI for my rock paper scissors game @TheOdinProject. Trying to make it an Alex the Kidd jenkin theme. Its exciting to see how this might turn out.
+
+###R1D57
+Worked on the layout for my Alex the kidd themed rock paper scissors game.
+
+ Feel like I am getting so much more work done doing the #100DaysOfCode
+
+
+
 
 
