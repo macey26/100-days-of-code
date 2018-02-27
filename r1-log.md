@@ -191,6 +191,12 @@ Worked on the layout for my Alex the kidd themed rock paper scissors game.
 
  Feel like I am getting so much more work done doing the #100DaysOfCode
 
+###R1D58/59
+ Spent time creating a responsive User Interface for my Alex the Kidd Jenkin game with bootstrap.
+It's been a while since I used bootstrap #100Daysofcode
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
 
 
 

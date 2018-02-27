@@ -456,3 +456,11 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 **Thoughts** Feel like I am getting so much more work done doing the #100Daysofcode
 
 **Link(s) to work**
+
+### Day 58/59: February 26th/27th, 2018 
+
+**Today's Progress**: Spent time creating a responsive User Interface for my Alex the Kidd Jenkin game with bootstrap.
+
+**Thoughts** Forgot some a few things about bootstrap today. #100Daysofcode
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
