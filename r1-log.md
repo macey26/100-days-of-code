@@ -197,7 +197,12 @@ It's been a while since I used bootstrap #100Daysofcode
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
 
+###R1D60
+Spent some time working with CSS grid.
+I think it is a lot simpler than bootstap. #100Daysofcode
 
+###R1D61
+Refreshed my memory of CSS grid with @wesbos CSS grid. 
 
 
 

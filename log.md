@@ -464,3 +464,19 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 **Thoughts** Forgot some a few things about bootstrap today. #100Daysofcode
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 60: February 28th, 2018 
+
+**Today's Progress**: Spent some time working with CSS grid
+
+**Thoughts** I think its a lot simpler than bootstap. #100Daysofcode
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 61: March 1st, 2018 
+
+**Today's Progress**: Refreshed my memory of CSS grid with @wesbos CSS grid. 
+
+**Thoughts** Slowly getting my head around it.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
