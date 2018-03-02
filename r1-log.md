@@ -204,5 +204,8 @@ I think it is a lot simpler than bootstap. #100Daysofcode
 ###R1D61
 Refreshed my memory of CSS grid with @wesbos CSS grid. 
 
+###R1D62
+Finished the layout for my Alex the Kidd Jenkin game, ready to start the DOM maniputlation for it.
+
 
 
