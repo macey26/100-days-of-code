@@ -207,5 +207,9 @@ Refreshed my memory of CSS grid with @wesbos CSS grid.
 ###R1D62
 Finished the layout for my Alex the Kidd Jenkin game, ready to start the DOM maniputlation for it.
 
+###R1D63
+Spent some time creating buttons for my Alex the Kidd Jenkin game.
+I ended up in what seems like a vicious cycle of trying to position the button in the css grid.
+
 
 

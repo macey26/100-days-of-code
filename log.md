@@ -488,3 +488,11 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 **Thoughts** Relived to get through it
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 63: March 4th, 2018 
+
+**Today's Progress**: Spent some time creating buttons for my Alex the Kidd Jenkin game.
+
+**Thoughts** I ended up in what seems like a vicious cycle of trying to position the button in the  css grid.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
