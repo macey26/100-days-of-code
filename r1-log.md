@@ -211,5 +211,10 @@ Finished the layout for my Alex the Kidd Jenkin game, ready to start the DOM man
 Spent some time creating buttons for my Alex the Kidd Jenkin game.
 I ended up in what seems like a vicious cycle of trying to position the button in the css grid.
 
+###R1D64
+Solved a the problem with my buttons and started to add event listeners to my Alex the Kidd Jenken game.
+
+Glad I can move forward.
+
 
 

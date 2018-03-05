@@ -496,3 +496,11 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 **Thoughts** I ended up in what seems like a vicious cycle of trying to position the button in the  css grid.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 64: March 5th, 2018 
+
+**Today's Progress**: Solved a the problem with my buttons and started to add event listeners to my Alex the Kidd Jenken game.
+
+**Thoughts** So glad I can move forward again.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
