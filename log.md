@@ -504,3 +504,13 @@ Reading @YDKJS Scopes and Closures today, learnt about lexical scope. #100DaysOf
 **Thoughts** So glad I can move forward again.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+
+### Day 65: March 6th, 2018 
+
+**Today's Progress**: Spent some more time on css grid learning areas with @Wes Bos #giddyup 
+
+Also spent some time adding event listeners to my buttons 
+
+**Thoughts** A little overwhelemed by the ROCK PAPER SCISSORS DOM task
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

@@ -216,5 +216,15 @@ Solved a the problem with my buttons and started to add event listeners to my Al
 
 Glad I can move forward.
 
+###R1D65
+Spent some more time on css grid learning areas with @Wes Bos #giddyup 
+
+Also spent some time adding event listeners to my buttons 
+
+
+
+
+
+
 
 
