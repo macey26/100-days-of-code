@@ -221,6 +221,9 @@ Spent some more time on css grid learning areas with @Wes Bos #giddyup
 
 Also spent some time adding event listeners to my buttons 
 
+###R1D66
+Spent some time doing DOM manipulation for my Jenkan game for @TheOdinProject assignment
+
 
 
 

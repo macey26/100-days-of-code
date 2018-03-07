@@ -514,3 +514,11 @@ Also spent some time adding event listeners to my buttons
 **Thoughts** A little overwhelemed by the ROCK PAPER SCISSORS DOM task
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 66: March 7th, 2018 
+
+**Today's Progress**: Spent some time doing DOM manipulation for my Jenkan game for @TheOdinProject assignment
+
+**Thoughts** Not really tired, but relaxed in not knowing the answers and just trying to break down the solutions 
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
