@@ -519,6 +519,30 @@ Also spent some time adding event listeners to my buttons
 
 **Today's Progress**: Spent some time doing DOM manipulation for my Jenkan game for @TheOdinProject assignment
 
-**Thoughts** Not really tired, but relaxed in not knowing the answers and just trying to break down the solutions 
+**Thoughts**  Really tired, but relaxed in not knowing the answers and just trying to break down the solutions 
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 67: March 8th, 2018 
+
+**Today's Progress**: Spent some time fixing some CSS grid problems I created with my interface. Didn't get to the DOM manipulation
+
+**Thoughts** So relived i finally sorted it out 
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 68: March 9th, 2018 
+
+**Today's Progress**: I started using query selectors to edit text for my Alex the Kidd Jenkan game for my @TheOdinProject assignment.
+
+**Thoughts** Managing to stay calm when i get stuck and work my way through it.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 69: March 11th, 2018 
+
+**Today's Progress**: I missed out on coding yesterday, but managed to get to it today. I am converting all my console logs to DOM Methods
+
+**Thoughts** I feel like I am making progress with it.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

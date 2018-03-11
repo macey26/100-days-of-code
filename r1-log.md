@@ -224,6 +224,21 @@ Also spent some time adding event listeners to my buttons
 ###R1D66
 Spent some time doing DOM manipulation for my Jenkan game for @TheOdinProject assignment
 
+###R1D67
+Spent some time fixing some CSS grid problems I created with my interface. Didn't get to the DOM manipulation
+
+###R1D68
+I started using query selectors to edit text for my Alex the Kidd Jenkan game  @TheOdinProject
+
+Managing to stay relaxed when I get stuck and work my way through it.
+
+###R1D69
+I missed out on coding yesterday, but managed to get to it today. 
+
+I am converting all my console logs to DOM Methods
+
+
+
 
 
 
