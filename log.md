@@ -546,3 +546,11 @@ Also spent some time adding event listeners to my buttons
 **Thoughts** I feel like I am making progress with it.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 70: March 12th, 2018 
+
+**Today's Progress**: I am converting console logs to Dom Methods for my Rock paper scissors project @TheOdinProject
+
+**Thoughts** Slowly working thorough it
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

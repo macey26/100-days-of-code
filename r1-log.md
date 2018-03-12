@@ -237,6 +237,10 @@ I missed out on coding yesterday, but managed to get to it today.
 
 I am converting all my console logs to DOM Methods
 
+###R1D70
+I am converting console logs to Dom Methods for my Rock paper scissors project @TheOdinProject
+
+Slowly working thorough it.
 
 
 
