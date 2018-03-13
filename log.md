@@ -554,3 +554,12 @@ Also spent some time adding event listeners to my buttons
 **Thoughts** Slowly working thorough it
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+
+### Day 71: March 13th, 2018 
+
+**Today's Progress**: Created more buttons for my Alex the Kidd jenken UI and changed some more console logs to DOM menthods
+
+**Thoughts** I may work a little slower, but I am really starting to get it
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

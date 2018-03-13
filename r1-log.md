@@ -243,6 +243,9 @@ I am converting console logs to Dom Methods for my Rock paper scissors project @
 Slowly working thorough it.
 
 
+###R1D71
+Created more buttons for my Alex the Kidd jenken UI and changed some more console logs to DOM menthods
+
 
 
 
