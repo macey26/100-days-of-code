@@ -563,3 +563,22 @@ Also spent some time adding event listeners to my buttons
 **Thoughts** I may work a little slower, but I am really starting to get it
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 72: March 14th, 2018 
+
+**Today's Progress**: Started refactoring my javascript code, to make room for the DOM changes Ive made
+
+**Thoughts** I feel like I made some progress today
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 73: March 15th, 2018 
+
+**Today's Progress**: Still refactoring my javascript code, to make room DOM. 
+
+Spent a lot of time editing images for the UI using inkscape and gimp
+
+**Thoughts** Really enjoying the inskape tutorials
+
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

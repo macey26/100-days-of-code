@@ -246,6 +246,16 @@ Slowly working thorough it.
 ###R1D71
 Created more buttons for my Alex the Kidd jenken UI and changed some more console logs to DOM menthods
 
+###R1D72
+Started refactoring my javascript code, to make room for the DOM changes Ive made. 
+
+I really feel like I'm getting it. Thank @TheOdinProject and thanks #100DaysOfCode
+
+###R1D73
+Still refactoring my javascript code, to make room for DOM. 
+
+Spent a lot of time editing images for the UI using inkscape and gimp
+
 
 
 
