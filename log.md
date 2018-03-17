@@ -582,3 +582,21 @@ Spent a lot of time editing images for the UI using inkscape and gimp
 
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 74: March 16th, 2018 
+
+**Today's Progress**:Spent a lot of time editing images for the UI using inkscape and gimp
+
+**Thoughts** Really enjoying the inskape tutorials
+
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 75: March 17th, 2018 
+
+**Today's Progress**:Adding images to the DOM of my Alex the Kidd Jenken game.
+
+**Thoughts** I may have got a little distracted with the finer details, but I wasnt it to function well and look appealing too.
+
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

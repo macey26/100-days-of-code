@@ -256,6 +256,13 @@ Still refactoring my javascript code, to make room for DOM.
 
 Spent a lot of time editing images for the UI using inkscape and gimp
 
+Spent a lot of time editing images for the UI using inkscape and gimp
+
+
+###R1D74
+Edited more images for my Rock paper scissors game @TheOdinProject
+
+
 
 
 
