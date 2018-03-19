@@ -262,6 +262,11 @@ Spent a lot of time editing images for the UI using inkscape and gimp
 ###R1D74
 Edited more images for my Rock paper scissors game @TheOdinProject
 
+###R1D75
+Adding images to the DOM of my Alex the Kidd Jenken game.
+
+I may have got a little distracted with the finer details, but I want it to function well and look good
+
 
 
 
