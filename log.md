@@ -605,6 +605,12 @@ Spent a lot of time editing images for the UI using inkscape and gimp
 
 **Today's Progress**:Adding more images to appear on click, it seems to be taking a while, but I think I'm getting through it.
 
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
 
+### Day 78/79: March 20th and 21st, 2018 
+
+**Today's Progress**:Created more query selectors, functions and event listeners for My Alex the Kidd Jenken game.
+
+Also spent time making vector graphics for the UI
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

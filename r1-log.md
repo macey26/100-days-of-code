@@ -267,6 +267,14 @@ Adding images to the DOM of my Alex the Kidd Jenken game.
 
 I may have got a little distracted with the finer details, but I want it to function well and look good
 
+###R1D76/77
+Adding more images to appear on click, it seems to be taking a while, but I think I'm getting through it.
+
+###R1D78/79
+Created more query selectors, functions and event listeners for My Alex the Kidd Jenken game.
+
+Also spent time making vector graphics for the UI
+
 
 
 
