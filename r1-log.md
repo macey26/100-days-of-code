@@ -275,6 +275,9 @@ Created more query selectors, functions and event listeners for My Alex the Kidd
 
 Also spent time making vector graphics for the UI
 
+###R1D80
+Did some more work on the UI for my Alex the kidd Game. I would have loved more time today, but I was busy with work.
+
 
 
 

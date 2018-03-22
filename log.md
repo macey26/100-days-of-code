@@ -614,3 +614,9 @@ Spent a lot of time editing images for the UI using inkscape and gimp
 Also spent time making vector graphics for the UI
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 80: March 22nd, 2018
+
+**Today's Progress**: Did some more work on the UI for my Alex the kidd Game. I would have loved more time today, but I was busy with work.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
