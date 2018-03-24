@@ -620,3 +620,12 @@ Also spent time making vector graphics for the UI
 **Today's Progress**: Did some more work on the UI for my Alex the kidd Game. I would have loved more time today, but I was busy with work.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+### Day 81/ 82: March 23rd/24th, 2018
+
+**Today's Progress**: Finished work on my vector images for my Alex the Kidd Jenken Game. Started adding query selectors and setting attributes to the image.
+
+**Thoughts** Didn't think it would take so long to do the images.
+
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

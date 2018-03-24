@@ -278,6 +278,9 @@ Also spent time making vector graphics for the UI
 ###R1D80
 Did some more work on the UI for my Alex the kidd Game. I would have loved more time today, but I was busy with work.
 
+###R1D81/82
+Finished work on my vector images for my Alex the Kidd Jenken Game. Started adding query selectors and setting attributes to the image. 
+
 
 
 
