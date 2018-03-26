@@ -629,3 +629,11 @@ Also spent time making vector graphics for the UI
 
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+###Day 83/84 March 25th/26th, 2018
+
+**Today's Progress**:
+
+**Thoughts** Might not be reaching my intended goal, but I am still learning.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

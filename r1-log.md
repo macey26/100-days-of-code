@@ -281,6 +281,8 @@ Did some more work on the UI for my Alex the kidd Game. I would have loved more 
 ###R1D81/82
 Finished work on my vector images for my Alex the Kidd Jenken Game. Started adding query selectors and setting attributes to the image. 
 
+###R1D83/84
+ Added all new images using document.createElement and Query selectors. Trying to figure out how to refresh an image when you click again. Doing some research with @wesbos javascript30.
 
 
 
