@@ -284,6 +284,20 @@ Finished work on my vector images for my Alex the Kidd Jenken Game. Started addi
 ###R1D83/84
  Added all new images using document.createElement and Query selectors. Trying to figure out how to refresh an image when you click again. Doing some research with @wesbos javascript30.
 
+###R1D85
+I spent a lot of time looking for a missing bracket, one tiny little bracket. 
+
+Also learning more about addClass.toggle thinking of using it replace images on click
+
+ Dont care too much about being behind today, this is my personal learning goal, not someone elses.
+
+###R1D86
+Managed to get images to change on click for my Alex the kidd Jenkan game.
+
+Feel like I am getting somewhere again.
+
+
+
 
 
 

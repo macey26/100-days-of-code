@@ -632,8 +632,24 @@ Also spent time making vector graphics for the UI
 
 ###Day 83/84 March 25th/26th, 2018
 
-**Today's Progress**:
+**Today's Progress**: Added all new images using document.createElement and Query selectors. Trying to figure out how to refresh an image when you click again. Doing some research with @wesbos javascript30.
 
 **Thoughts** Might not be reaching my intended goal, but I am still learning.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+###Day 85 March 27th, 2018
+
+**Today's Progress**: I spent a lot of time looking for missing bracket, one tiny little bracket. Also learning more about addClass.toggle thinking of using it replace images on click
+
+**Thoughts** Dont care too much about being behind today, this is my personal learning goal, not someone elses
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+###Day 86 March 28th, 2018
+
+**Today's Progress**: Managed to get images to change on click for my Alex the kidd Jenkan game.
+
+**Thoughts** Feel like I am getting somewhere again.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
