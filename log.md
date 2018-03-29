@@ -653,3 +653,11 @@ Also spent time making vector graphics for the UI
 **Thoughts** Feel like I am getting somewhere again.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+###Day 87 March 29th, 2018
+
+**Today's Progress**: Made some alterations to the UI, fixed an issue with the number of game rounds and starting to figure out how to clean up the code I created all for my Alex the Kidd Jenkan game.
+
+**Thoughts** Feel like I am getting somewhere again.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
