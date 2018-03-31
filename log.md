@@ -661,3 +661,11 @@ Also spent time making vector graphics for the UI
 **Thoughts** Feel like I am getting somewhere again.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+###Day 88/89 March 29th, 2018
+
+**Today's Progress**: I seem to be spending a lot of time fixing issues in the final stages of my game. When I finally fix one thing another issue seems to appear.
+
+**Thoughts** Lets hope I can get through this.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

@@ -299,6 +299,11 @@ Feel like I am getting somewhere again.
 ###R1D87
 Made some alterations to the UI, fixed an issue with the number of game rounds and starting to figure out how to clean up the code I created all for my Alex the Kidd Jenkan game.
 
+###R1D88/89
+I seem to be spending a lot of time fixing issues in the final stages of my game. When I finally fix one thing another issue seems to appear.
+
+Lets hope I can get through this.
+
 
 
 
