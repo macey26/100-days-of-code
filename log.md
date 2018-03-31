@@ -662,10 +662,18 @@ Also spent time making vector graphics for the UI
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
 
-###Day 88/89 March 29th, 2018
+###Day 88/89 March 30th/ 31st, 2018
 
 **Today's Progress**: I seem to be spending a lot of time fixing issues in the final stages of my game. When I finally fix one thing another issue seems to appear.
 
 **Thoughts** Lets hope I can get through this.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+###Day 90 April 1st, 2018
+
+**Today's Progress**: Finally I got the game to do exactly what I needed to do, then decided to clean up the code, by making more functions.
+
+**Thoughts** Having trouble hiding an HTML image using DOM, ive tried display:none and visibilty: hidden and the image won't budge.  Any other suggestions would greatly appreciated.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)

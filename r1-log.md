@@ -304,6 +304,11 @@ I seem to be spending a lot of time fixing issues in the final stages of my game
 
 Lets hope I can get through this.
 
+###R1D90
+Finally I got the game to do exactly what I needed to do, then decided to clean up the code, by making more functions.
+
+Having trouble hiding an HTML image using DOM, ive tried display:none and visibilty: hidden and the image won't budge now.
+
 
 
 
