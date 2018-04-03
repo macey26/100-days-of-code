@@ -309,8 +309,17 @@ Finally I got the game to do exactly what I needed to do, then decided to clean 
 
 Having trouble hiding an HTML image using DOM, ive tried display:none and visibilty: hidden and the image won't budge now.
 
+###R1D91
+Refactoring Code for my #javascript assignment. I think I just created a monster and the part of me that is a perfectionist doesn't want to surrender.
 
+###R1D92
+Finally completed my Alex the Kidd Jenkan game for my rock paper scissors game @theOdinProject 
 
+It took much longer than I expected, but I can say now that I have learnt so much about javascript and I feel a lot more confident about DOM too.
+
+https://github.com/macey26/rock-paper-scissors
+
+https://macey26.github.io/rock-paper-scissors/#
 
 
 

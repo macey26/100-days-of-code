@@ -677,3 +677,22 @@ Also spent time making vector graphics for the UI
 **Thoughts** Having trouble hiding an HTML image using DOM, ive tried display:none and visibilty: hidden and the image won't budge.  Any other suggestions would greatly appreciated.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+###Day 91 April 2nd, 2018
+
+**Today's Progress**:Refactoring Code for my #javascript assignment. 
+
+**Thoughts** I think I just created a monster and the part of me that is a perfectionist doesn't want to surrender.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors)
+
+https://macey26.github.io/rock-paper-scissors/#
+
+###Day 92 April 3rd, 2018
+
+**Today's Progress**:Finally completed my Alex the Kidd Jenkan game for my rock paper scissors game @theOdinProject 
+
+**Thoughts** It took much longer than I expected, but I can say now that I have learnt so much about javascript
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://macey26.github.io/rock-paper-scissors/#) (https://github.com/macey26/rock-paper-scissors)
+
