@@ -696,3 +696,10 @@ https://macey26.github.io/rock-paper-scissors/#
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://macey26.github.io/rock-paper-scissors/#) (https://github.com/macey26/rock-paper-scissors)
 
+###Day 93/94 April 4/5, 2018
+
+**Today's Progress**:Started work on my Etch-A-Sketch project for @TheOdinProject.
+
+**Thoughts** I think i get the concept, now its applying it
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
