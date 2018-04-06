@@ -703,3 +703,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** I think i get the concept, now its applying it
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
+
+###Day 95 April 6th, 2018
+
+**Today's Progress**:Created a CSS grid using a for loop and javascript DOM methods
+
+**Thoughts** Enjoyed doing some research with net ninja and eloquent javascript. 
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)

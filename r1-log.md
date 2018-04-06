@@ -324,6 +324,11 @@ https://macey26.github.io/rock-paper-scissors/#
 ###R1D93/94
 Started work on my Etch-A-Sketch project for @TheOdinProject.
 
+###R1D95
+Created a CSS grid using a for loop and javascript DOM methods
+
+Enjoyed doing some research with net ninja and eloquent javascript.
+
 
 
 
