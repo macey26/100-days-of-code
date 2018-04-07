@@ -704,10 +704,11 @@ https://macey26.github.io/rock-paper-scissors/#
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
 
-###Day 95 April 6th, 2018
 
-**Today's Progress**:Created a CSS grid using a for loop and javascript DOM methods
+###Day 96 April 7th, 2018
 
-**Thoughts** Enjoyed doing some research with net ninja and eloquent javascript. 
+**Today's Progress**: Working on my etch-a-sketch game for the odin project
+
+**Thoughts** I think I'm getting a little more confident with eventListners
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)

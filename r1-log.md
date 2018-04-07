@@ -329,6 +329,11 @@ Created a CSS grid using a for loop and javascript DOM methods
 
 Enjoyed doing some research with net ninja and eloquent javascript.
 
+###R1D96
+Working on my etch-a-sketch game for the odin project
+
+I think I'm getting a little more confident with eventListners
+
 
 
 
