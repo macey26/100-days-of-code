@@ -712,3 +712,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** I think I'm getting a little more confident with eventListners
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
+
+###Day 97 April 8th, 2018
+
+**Today's Progress**: Added a function to my Etch-A-Sketch game that resets the grid also working on a user unput function. 
+
+**Thoughts** Made some good progress today with only an hour to code
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)

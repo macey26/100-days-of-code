@@ -334,6 +334,11 @@ Working on my etch-a-sketch game for the odin project
 
 I think I'm getting a little more confident with eventListners
 
+###R1D97
+Added a function to my Etch-A-Sketch game that resets the grid also working on a user unput function. 
+
+ Made some good progress today with only an hour to code
+
 
 
 
