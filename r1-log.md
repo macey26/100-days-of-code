@@ -339,6 +339,13 @@ Added a function to my Etch-A-Sketch game that resets the grid also working on a
 
  Made some good progress today with only an hour to code
 
+###R1D98
+ Still working on my Etch a sketch game. I am creating on a function that changes the size of the grid using user input.
+
+ getting closer to 100days
+
+
+
 
 
 

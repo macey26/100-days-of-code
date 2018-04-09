@@ -720,3 +720,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** Made some good progress today with only an hour to code
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
+
+###Day 98 April 9th, 2018
+
+**Today's Progress**: Still working on my Etch a sketch game. I am working on a function that changes the size of the grid using user input.
+
+**Thoughts** getting closer to 100days
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
