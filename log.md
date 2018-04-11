@@ -728,3 +728,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** getting closer to 100days
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
+
+###Day 99 April 11th, 2018
+
+**Today's Progress**: Working on my Etch a sketch game, trying to get the user input to change the CSS grid size when a user inputs a number. 
+
+**Thoughts** Getting frustrated that I can't get my head around it an come up with the solution.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)

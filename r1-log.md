@@ -344,6 +344,12 @@ Added a function to my Etch-A-Sketch game that resets the grid also working on a
 
  getting closer to 100days
 
+###R1D99
+Working on my Etch a sketch game, trying to get the css grid size to change when a user inputs a number. 
+
+Getting frustrated that I can't get my head around it and come up with the solution.
+
+
 
 
 
