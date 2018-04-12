@@ -349,6 +349,13 @@ Working on my Etch a sketch game, trying to get the css grid size to change when
 
 Getting frustrated that I can't get my head around it and come up with the solution.
 
+###R1D100 
+Finally got most of the code done on my Etch A Sketch @theOdinProject. I just need to tidy up the Code and add style with CSS.   
+
+So amazed I made it through 100Days, I couldn't have done it without the support of the #100DaysOfCode community. Thank you
+
+
+
 
 
 

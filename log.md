@@ -736,3 +736,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** Getting frustrated that I can't get my head around it an come up with the solution.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
+
+###Day 100 April 12th, 2018
+
+**Today's Progress**: Finally got most of the code done on my Etch A Sketch @theOdinProject. I just need to tidy up the Code and add style with CSS.   
+
+**Thoughts** So amazed I made it through 100Days, I couldn't have done it without the support of the #100DaysOfCode community. Thank you
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
