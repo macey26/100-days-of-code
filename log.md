@@ -744,3 +744,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** So amazed I made it through 100Days, I couldn't have done it without the support of the #100DaysOfCode community. Thank you
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
+
+###Day 101 April 13th, 2018
+
+**Today's Progress**: Finished off Etch A Sketch game For @TheOdinProject, tidied up the code as well.
+
+**Thoughts** Starting round 2 of #100DaysOfCode, so excited.
+
+**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)

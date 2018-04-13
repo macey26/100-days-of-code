@@ -354,6 +354,11 @@ Finally got most of the code done on my Etch A Sketch @theOdinProject. I just ne
 
 So amazed I made it through 100Days, I couldn't have done it without the support of the #100DaysOfCode community. Thank you
 
+###R2D1
+Finished off Etch A Sketch game For @TheOdinProject, tidied up the code as well.
+
+Starting round 2 of #100DaysOfCode, so excited.
+
 
 
 
