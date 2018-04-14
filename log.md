@@ -752,3 +752,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** Starting round 2 of #100DaysOfCode, so excited.
 
 **Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/etch-a-sketch)
+
+###Day 102 April 14th, 2018
+
+**Today's Progress**: I am learning about javascript objects @theOdinProject
+
+**Thoughts** looking forward to working through the course content
+
+**Link(s) to work** 

@@ -359,6 +359,12 @@ Finished off Etch A Sketch game For @TheOdinProject, tidied up the code as well.
 
 Starting round 2 of #100DaysOfCode, so excited.
 
+https://macey26.github.io/etch-a-sketch/
+
+###R2D2
+I am learning about javascript objects @theOdinProject
+
+Looking forward to working through the course content
 
 
 
