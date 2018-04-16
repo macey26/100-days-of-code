@@ -366,6 +366,13 @@ I am learning about javascript objects @theOdinProject
 
 Looking forward to working through the course content
 
+###R2D3&4
+Learning more about javascript objects @theOdinProject
+
+Found out how to look up objects properties and use special operators
+
+**Link(s) to work** 
+
 
 
 

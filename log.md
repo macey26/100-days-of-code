@@ -760,3 +760,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** looking forward to working through the course content
 
 **Link(s) to work** 
+
+###Day 103/104 April 15th and 16th, 2018
+
+**Today's Progress**: Learning more about javascript objects @theOdinProject
+
+**Thoughts** Learning how to look up objects properties and use special operators
+
+**Link(s) to work** 
