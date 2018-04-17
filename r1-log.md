@@ -371,7 +371,10 @@ Learning more about javascript objects @theOdinProject
 
 Found out how to look up objects properties and use special operators
 
-**Link(s) to work** 
+
+###R2D5
+Reading about Javascript objects and practicing what I'm learning with some @freeCodeCamp  basic javascript exercises
+
 
 
 

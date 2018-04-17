@@ -768,3 +768,11 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** Learning how to look up objects properties and use special operators
 
 **Link(s) to work** 
+
+###Day 105 April 17th, 2018
+
+**Today's Progress**: Reading about Javascript objects and practicing what im learning with some @freeCodeCamp  basic javascript exercises
+
+**Thoughts** I hope I am starting to get it.
+
+**Link(s) to work** 
