@@ -375,6 +375,15 @@ Found out how to look up objects properties and use special operators
 ###R2D5
 Reading about Javascript objects and practicing what I'm learning with some @freeCodeCamp  basic javascript exercises
 
+###R2D6
+Read some more about javascript objects at Javascript.info
+
+Does anyone know of any good rescourses for learning Javascript objects?
+
+###R2D7
+Read about objects on MDN and started looking atjavascriptissexy.com thanks to some reccomendations  
+
+Starting to understand the basics
 
 
 

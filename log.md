@@ -776,3 +776,21 @@ https://macey26.github.io/rock-paper-scissors/#
 **Thoughts** I hope I am starting to get it.
 
 **Link(s) to work** 
+
+###Day 106 April 18th, 2018
+
+**Today's Progress**: Read some more about objects at Javascript.info
+
+**Thoughts** Starting to loose hope that I will understand objects
+
+**Link(s) to work** 
+
+[Javascript info](http://javascript.info/object)
+
+###Day 107 April 18th, 2018
+
+**Today's Progress**: Read about objects on MDN and started looking atjavascriptissexy.com  
+
+**Thoughts** Starting to understand the basics
+
+**Link(s) to work** 
