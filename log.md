@@ -787,10 +787,20 @@ https://macey26.github.io/rock-paper-scissors/#
 
 [Javascript info](http://javascript.info/object)
 
-###Day 107 April 18th, 2018
+###Day 107 April 19th, 2018
 
 **Today's Progress**: Read about objects on MDN and started looking atjavascriptissexy.com  
 
 **Thoughts** Starting to understand the basics
+
+**Link(s) to work** 
+
+###Day 108/109 April 20th/21st, 2018
+
+**Today's Progress**: working Through @wesBos array cardio.  
+
+Also working on memorising the keyvboard shortcuts for sublime text.
+
+**Thoughts** Very tired and easily distracted today. 
 
 **Link(s) to work** 

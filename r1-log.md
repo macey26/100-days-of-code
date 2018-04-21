@@ -386,7 +386,10 @@ Read about objects on MDN and started looking atjavascriptissexy.com thanks to s
 Starting to understand the basics
 
 
+###R2D8/9
+Working through @wesBos javascript30  
 
+Also working on memorising the keyvboard shortcuts for sublime text.
 
 
 
