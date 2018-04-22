@@ -391,6 +391,9 @@ Working through @wesBos javascript30
 
 Also working on memorising the keyvboard shortcuts for sublime text.
 
+###R2D10
+ Working through @wesbos javacript30 today and learning keyboard shortcuts for sublime text.
+
 
 
 

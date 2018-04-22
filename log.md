@@ -804,3 +804,11 @@ Also working on memorising the keyvboard shortcuts for sublime text.
 **Thoughts** Very tired and easily distracted today. 
 
 **Link(s) to work** 
+
+######Day 110 April 22nd, 2018
+
+**Today's Progress**: Working through @wesbos javacript30 today and learning keyboard shortcuts for sublime.
+
+**Thoughts** Very tired 
+
+**Link(s) to work** 
