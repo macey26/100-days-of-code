@@ -394,6 +394,12 @@ Also working on memorising the keyvboard shortcuts for sublime text.
 ###R2D10
  Working through @wesbos javacript30 today and learning keyboard shortcuts for sublime text.
 
+###R2D11
+Did a little @wesbos javacript30 today 
+Installed Jasmine on my laptop and got started on the javascript exercises @TheOdinProject
+
+
+
 
 
 

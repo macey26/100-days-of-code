@@ -805,10 +805,20 @@ Also working on memorising the keyvboard shortcuts for sublime text.
 
 **Link(s) to work** 
 
-######Day 110 April 22nd, 2018
+###Day 110 April 22nd, 2018
 
 **Today's Progress**: Working through @wesbos javacript30 today and learning keyboard shortcuts for sublime.
 
 **Thoughts** Very tired 
+
+**Link(s) to work** 
+
+
+###Day 111 April 23rd, 2018
+
+**Today's Progress**: Did a little @wesbos javacript30 today 
+Installed Jasmine on my laptop and got started on the javascript exercises @TheOdinProject
+
+**Thoughts** Has some diffculties getting the tests to run on jasmine. 
 
 **Link(s) to work** 
