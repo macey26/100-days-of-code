@@ -399,7 +399,10 @@ Did a little @wesbos javacript30 today
 Installed Jasmine on my laptop and got started on the javascript exercises @TheOdinProject
 
 
+###R2D12
+Started the second round of javascript exercises today for @TheOdinProject 
 
+I started on the calculator exercises today.
 
 
 

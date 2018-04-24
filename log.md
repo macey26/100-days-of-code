@@ -822,3 +822,14 @@ Installed Jasmine on my laptop and got started on the javascript exercises @TheO
 **Thoughts** Has some diffculties getting the tests to run on jasmine. 
 
 **Link(s) to work** 
+
+
+###Day 112 April 24th, 2018
+
+**Today's Progress**: Started the second round of javascript exercises today for @TheOdinProject 
+I started on the calculator exercises today.
+
+**Thoughts** Felt a little more confident with solving some of the tests today 
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/calculator)
