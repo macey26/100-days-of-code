@@ -404,6 +404,9 @@ Started the second round of javascript exercises today for @TheOdinProject
 
 I started on the calculator exercises today.
 
+###R2D13
+Spent some time learning snippets and installing packages on sublime text
 
+ Had some trouble getting my color higlighter to highlight color.
 
 

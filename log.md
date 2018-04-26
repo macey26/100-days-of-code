@@ -833,3 +833,12 @@ I started on the calculator exercises today.
 
 **Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/calculator)
+
+
+###Day 113 April 25th, 2018
+
+**Today's Progress**: Spent some time learning snippets and installing packages on sublime text
+
+**Thoughts** Had some trouble getting my color higlighter to highlight color.
+
+
