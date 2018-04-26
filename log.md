@@ -841,4 +841,10 @@ I started on the calculator exercises today.
 
 **Thoughts** Had some trouble getting my color higlighter to highlight color.
 
+###Day 114 April 26th, 2018
+
+**Today's Progress**: learnt some more about snippets in sublime text and learnt about using emmet
+
+**Thoughts**I can already see my productivity increasing
+
 

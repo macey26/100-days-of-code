@@ -409,4 +409,9 @@ Spent some time learning snippets and installing packages on sublime text
 
  Had some trouble getting my color higlighter to highlight color.
 
+###R2D14
+learnt some more about snippets in sublime text and learnt about using emmet
+
+I can already see my productivity increasing
+
 
