@@ -414,4 +414,7 @@ learnt some more about snippets in sublime text and learnt about using emmet
 
 I can already see my productivity increasing
 
+###R2D15
+I finished of the @wesbos clock for javacript30, created some keyboard shortcuts in sublime text and got some more work done on my javascript calculator.
+
 
