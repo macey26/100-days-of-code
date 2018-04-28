@@ -417,4 +417,9 @@ I can already see my productivity increasing
 ###R2D15
 I finished of the @wesbos clock for javacript30, created some keyboard shortcuts in sublime text and got some more work done on my javascript calculator.
 
+###R2D16
+Completed the calculator exercise for the @TheOdinProject and learnt about macros in sublime text
+
+I have been trying to focus more on what im doing than where I think i need to be. Its amazing how much more I am comprehending if i stay in the moment.
+
 

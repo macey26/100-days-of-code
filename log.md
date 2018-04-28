@@ -847,10 +847,18 @@ I started on the calculator exercises today.
 
 **Thoughts**I can already see my productivity increasing
 
-###Day 114 April 26th, 2018
+###Day 115 April 27th, 2018
 
 **Today's Progress**: I finished of the @wesbos clock, created some keyboard shortcuts in sublime text and got some more work done on my javascript calculator.
 
 **Thoughts**I can see I am alittle more patient that the last time i did these exercises.
+
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/calculator)
+
+###Day 116 April 28th, 2018
+
+**Today's Progress**: Completed the calculator exercise for the @TheOdinProject and learnt about macros in sublime text
+
+**Thoughts**I have been trying to focus more on what im doing than were I think i need to be. Its amazing how much more I am comprehending if i stay in the moment.
 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/calculator)
