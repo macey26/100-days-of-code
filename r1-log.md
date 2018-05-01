@@ -96,7 +96,8 @@ Trying to figure out how to apply a loop the game too.
 ###R1D26
 I did some exercises using while loops and started some practiced test driven development exercises @theOdinProject. I'm off camping for the next 3 days with my @YDKJS Scopes and Closures book.
 
-###R1D27 Read about block scope & hoisting in @YDKJS Scope & Closures. It has been a challenge to find space and time while camping, but I did it.
+###R1D27
+ Read about block scope & hoisting in @YDKJS Scope & Closures. It has been a challenge to find space and time while camping, but I did it.
 
 ### R1D28
 Spent some time reading about closures @YDKJS also did some reading up on loops. 
@@ -194,8 +195,7 @@ Worked on the layout for my Alex the kidd themed rock paper scissors game.
 ###R1D58/59
  Spent time creating a responsive User Interface for my Alex the Kidd Jenkin game with bootstrap.
 It's been a while since I used bootstrap #100Daysofcode
-
-**Link(s) to work** [Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
+[Rock Paper Scissors The Odin Project](https://github.com/macey26/rock-paper-scissors) 
 
 ###R1D60
 Spent some time working with CSS grid.
@@ -422,4 +422,13 @@ Completed the calculator exercise for the @TheOdinProject and learnt about macro
 
 I have been trying to focus more on what im doing than where I think i need to be. Its amazing how much more I am comprehending if i stay in the moment.
 
+###R2D17
+Completed the palindromes exercise for the @TheOdinProject and started on the snake case exercise, learning a lot about regular expressions.
 
+###R2D18
+Looking at Regular expression in Javascript also doing some more Keyboard shortcuts on sublime tutor.
+
+###R2D19
+working on the snakeCase exercise for @TheOdinProject javascript-exercises. 
+
+Does anyone have any good rescources for learning reg ex???

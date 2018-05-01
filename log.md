@@ -862,3 +862,29 @@ I started on the calculator exercises today.
 **Thoughts**I have been trying to focus more on what im doing than were I think i need to be. Its amazing how much more I am comprehending if i stay in the moment.
 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/calculator)
+
+###Day 117 April 29th, 2018
+
+**Today's Progress**: Completed the palindromes exercise for the @TheOdinProject and started on the snake case exercise, learning a lot of regular expressions.
+
+**Thoughts** I still have a lot more to learn
+
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/palindromes)
+
+###Day 118 April 30th, 2018
+
+**Today's Progress**: Looking at Regular expression in Javascript also doing some more Keyboard shortcuts on sublime tutor.
+
+**Thoughts** I didn't get much time today 
+
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
+
+###Day 118 May 1st, 2018
+
+**Today's Progress**: working on the snakeCase exercise for @TheOdinProject javascript-exercises. 
+
+**Thoughts** Can't get my head around regular expressions
+
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
+
+
