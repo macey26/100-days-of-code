@@ -879,11 +879,18 @@ I started on the calculator exercises today.
 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
 
-###Day 118 May 1st, 2018
+###Day 119 May 1st, 2018
 
 **Today's Progress**: working on the snakeCase exercise for @TheOdinProject javascript-exercises. 
 
 **Thoughts** Can't get my head around regular expressions
+
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
+
+###Day 120 May 2nd, 2018
+**Today's Progress**:Followed along with a fantastic tutorial on RegEx with the netNinja. It was so helpful and layed out in a way i could understand.
+
+**Thoughts** So glad i found the tutorial.
 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
 

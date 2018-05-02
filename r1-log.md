@@ -432,3 +432,8 @@ Looking at Regular expression in Javascript also doing some more Keyboard shortc
 working on the snakeCase exercise for @TheOdinProject javascript-exercises. 
 
 Does anyone have any good rescources for learning reg ex???
+
+###R2D20
+Followed along with a fantastic tutorial on RegEx with the netNinja. It was so helpful and layed out in a way i could understand.
+
+So glad i found the tutorial.
