@@ -853,6 +853,7 @@ I started on the calculator exercises today.
 
 **Thoughts**I can see I am alittle more patient that the last time i did these exercises.
 
+**Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/calculator)
 
 ###Day 116 April 28th, 2018
@@ -861,6 +862,7 @@ I started on the calculator exercises today.
 
 **Thoughts**I have been trying to focus more on what im doing than were I think i need to be. Its amazing how much more I am comprehending if i stay in the moment.
 
+**Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/calculator)
 
 ###Day 117 April 29th, 2018
@@ -869,6 +871,7 @@ I started on the calculator exercises today.
 
 **Thoughts** I still have a lot more to learn
 
+**Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/palindromes)
 
 ###Day 118 April 30th, 2018
@@ -877,6 +880,7 @@ I started on the calculator exercises today.
 
 **Thoughts** I didn't get much time today 
 
+**Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
 
 ###Day 119 May 1st, 2018
@@ -885,6 +889,7 @@ I started on the calculator exercises today.
 
 **Thoughts** Can't get my head around regular expressions
 
+**Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
 
 ###Day 120 May 2nd, 2018
@@ -892,6 +897,25 @@ I started on the calculator exercises today.
 
 **Thoughts** So glad i found the tutorial.
 
+**Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
 
+
+###Day 121 May 3rd, 2018
+**Today's Progress**:Building a validation form using regex with @netNinjauk
+
+**Thoughts** enjoying the tutorial
+
+###Day 122 123 124  May 4th 5th 7th, 2018
+**Today's Progress**:completed @netNinjauk RegEx tutorials
+
+Completed snakeCase exercises on @TheOdinProject
+
+continuing on with sublime tutor
+
+**Thoughts**Making some progress 
+
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/snakeCase)
 

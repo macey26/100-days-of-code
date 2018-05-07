@@ -437,3 +437,13 @@ Does anyone have any good rescources for learning reg ex???
 Followed along with a fantastic tutorial on RegEx with the netNinja. It was so helpful and layed out in a way i could understand.
 
 So glad i found the tutorial.
+
+###R2D21
+Building a validation form using regex with @netNinjauk
+
+###R2D22/23/24
+completed @netNinjauk RegEx tutorials
+
+Completed snakeCase exercises on @TheOdinProject
+
+continuing on with sublime tutor
