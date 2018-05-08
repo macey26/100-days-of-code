@@ -447,3 +447,8 @@ completed @netNinjauk RegEx tutorials
 Completed snakeCase exercises on @TheOdinProject
 
 continuing on with sublime tutor
+
+###R2D25
+Started work on caesar exercise for @TheOdinProject
+
+This one might take some time.
