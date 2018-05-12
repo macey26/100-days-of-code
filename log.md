@@ -928,3 +928,27 @@ continuing on with sublime tutor
 **Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/caesar)
 
+###Day 126/127  May 9/10th, 2018
+**Today's Progress**:Spent some time on the caesar exercise for @theOdinProject passed the first test, hope get through the remaining 5 tests
+
+**Thoughts**This one might take some time.
+
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/caesar)
+
+###Day 128  May 11th, 2018
+**Today's Progress**:Completed Caesar exercises  for @theOdinProject 
+
+**Thoughts**
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/caesar)
+
+###Day 129  May 12th, 2018
+**Today's Progress**:Started on fibonacci on @TheOdinProject Javascript exercises
+
+**Thoughts** It seems simple but im not too sure its going to be.
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/caesar)

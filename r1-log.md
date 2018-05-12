@@ -452,3 +452,15 @@ continuing on with sublime tutor
 Started work on caesar exercise for @TheOdinProject
 
 This one might take some time.
+
+###R2D26/127	
+Spent some time on the caesar exercise for @theOdinProject passed the first test, hope get through the remaining 5 tests
+
+###R2D28
+Completed Caesar exercises  for @theOdinProject 
+completed all the exercies for sublime tutor.
+
+###R2D29
+Started on fibonacci on @TheOdinProject Javascript exercises
+
+It seems simple but im not too sure its going to be.
