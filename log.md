@@ -952,3 +952,18 @@ continuing on with sublime tutor
 
 **Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/caesar)
+
+###Day 130  May 14th, 2018
+**Today's Progress**:Away on holiday so read @ydkjs scopes and closures
+**Thoughts** nearly at the end of the book.
+
+**Link(s) to work** 
+
+###Day 131  May 15th, 2018
+**Today's Progress**: working through fibonacci on @TheOdinProject Javascript exercises
+
+**Thoughts** 
+
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/fibonacci)

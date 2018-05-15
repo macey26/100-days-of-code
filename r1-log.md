@@ -464,3 +464,9 @@ completed all the exercies for sublime tutor.
 Started on fibonacci on @TheOdinProject Javascript exercises
 
 It seems simple but im not too sure its going to be.
+
+###R2D30
+Away on for the night, so read @ydkjs scopes and closures book
+
+###R2D31
+ working through fibonacci on @TheOdinProject Javascript exercises
