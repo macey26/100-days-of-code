@@ -470,3 +470,6 @@ Away on for the night, so read @ydkjs scopes and closures book
 
 ###R2D31
  working through fibonacci on @TheOdinProject Javascript exercises
+
+###R2D32
+Spents some time doing @wesbos javacript30 Ajax type Ahead
