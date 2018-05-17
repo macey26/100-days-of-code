@@ -972,3 +972,12 @@ continuing on with sublime tutor
 **Today's Progress**: Spents some time doing @wesbos javacript30 Ajax type Ahead
 
 **Thoughts** 
+
+###Day 133  May 17th, 2018
+**Today's Progress**: Finally completed the fibonacci javascript exercise for @TheOdinProject
+
+**Thoughts**Was really impressed with the result 
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/fibonacci)
+

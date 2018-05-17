@@ -473,3 +473,8 @@ Away on for the night, so read @ydkjs scopes and closures book
 
 ###R2D32
 Spents some time doing @wesbos javacript30 Ajax type Ahead
+
+###R2D33
+Finally completed the fibonacci javascript exercise for @TheOdinProject
+
+I was really impressed with myself when i passed the final test
