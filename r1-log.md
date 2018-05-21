@@ -478,3 +478,11 @@ Spents some time doing @wesbos javacript30 Ajax type Ahead
 Finally completed the fibonacci javascript exercise for @TheOdinProject
 
 I was really impressed with myself when i passed the final test
+
+###R2D34/35
+Began work on the pig latin javascript exercise for @TheOdinProject
+
+I can do this
+
+###R2D36
+Passed the second test on my pig latin javascript exercise for @TheOdinProject I converted the word banana to ananabay

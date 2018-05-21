@@ -981,3 +981,26 @@ continuing on with sublime tutor
 **Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/fibonacci)
 
+###Day 134  May 18th, 2018
+**Today's Progress**: Began work on the pig latin javascript exercise for @TheOdinProject
+
+**Thoughts**I can do this
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/pigLatin)
+
+###Day 135  May 20th, 2018
+**Today's Progress**: Working on javascript exercise for @TheOdinProject
+
+**Thoughts**I can do this
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/pigLatin)
+
+###Day 136  May 21st, 2018
+**Today's Progress**: Passed the second test on my pig latin javascript exercise for @TheOdinProject I converted the word banana to ananabay
+
+**Thoughts**really impressed with the progress
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/pigLatin)
