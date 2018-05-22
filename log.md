@@ -1004,3 +1004,11 @@ continuing on with sublime tutor
 
 **Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/pigLatin)
+
+###Day 137  May 22nd, 2018
+**Today's Progress**: Still working on the pig latin exercise, trying to figure out how to find the first vowel in a string. 
+
+**Thoughts**Still pretty happy about my progress
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/pigLatin)

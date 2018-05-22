@@ -486,3 +486,6 @@ I can do this
 
 ###R2D36
 Passed the second test on my pig latin javascript exercise for @TheOdinProject I converted the word banana to ananabay
+
+###R2D37
+Still working on the pig latin exercise, trying to figure out how to find the first vowel in a string. 
