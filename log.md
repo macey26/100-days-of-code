@@ -1012,3 +1012,11 @@ continuing on with sublime tutor
 
 **Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/pigLatin)
+
+###Day 138/139  May 23rd/24th, 2018
+**Today's Progress**: Still working on the pig latin exercise. Not doing too well with the 2 words test
+
+**Thoughts**Beginning to doubt myself.
+
+**Link(s) to work** 
+[JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/pigLatin)

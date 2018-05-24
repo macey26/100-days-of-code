@@ -489,3 +489,6 @@ Passed the second test on my pig latin javascript exercise for @TheOdinProject I
 
 ###R2D37
 Still working on the pig latin exercise, trying to figure out how to find the first vowel in a string. 
+
+###R2D38/39
+Still working on the pig latin exercise. Not doing too well with the 2 words test
