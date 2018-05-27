@@ -1020,3 +1020,17 @@ continuing on with sublime tutor
 
 **Link(s) to work** 
 [JavaScript exercises](https://github.com/macey26/javascript-exercises/tree/master/pigLatin)
+
+###Day 140  May 25th, 2018
+**Today's Progress**: Took a break from the pigLatin exercise today and started on exercism exercises
+
+**Thoughts** Not too confident today.
+
+**Link(s) to work** 
+
+###Day 140  May 26th/27th, 2018
+**Today's Progress**: Decided I needed a break from the pig latin exercise, so i started workin through the Javascript Algorithms And Data Structures section on beta freeCodeCamp
+
+**Thoughts** getting through it.
+
+**Link(s) to work** 

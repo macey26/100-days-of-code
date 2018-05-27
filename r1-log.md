@@ -492,3 +492,9 @@ Still working on the pig latin exercise, trying to figure out how to find the fi
 
 ###R2D38/39
 Still working on the pig latin exercise. Not doing too well with the 2 words test
+
+###R2D40
+Took a break from the pigLatin exercise today and started on exercism exercises
+
+###R2D41/42
+Decided I needed a break from the pig latin exercise, so I started working through the Javascript Algorithms And Data Structures section on beta freeCodeCamp
