@@ -1028,9 +1028,36 @@ continuing on with sublime tutor
 
 **Link(s) to work** 
 
-###Day 140  May 26th/27th, 2018
+###Day 141/142  May 26th/27th, 2018
 **Today's Progress**: Decided I needed a break from the pig latin exercise, so i started workin through the Javascript Algorithms And Data Structures section on beta freeCodeCamp
+
 
 **Thoughts** getting through it.
 
 **Link(s) to work** 
+
+###Day 143  May 28th, 2018
+**Today's Progress**: Working through the Javascript Algorithms And Data Structures section on beta #freeCodeCamp. worked through the Arrays section and started on the functions section.
+
+
+**Thoughts** I am happy with my progress
+
+**Link(s) to work** (https://beta.freecodecamp.org/portfolio/fcc32a3df63-0f5f-4db5-b0b2-30224300a7be)
+
+
+###Day 144  May 29th, 2018
+**Today's Progress**: Made some progress with the function section of javascript on beta freeCodeCamp.
+
+
+**Thoughts** I have to confess that I progressed through it last time by, peaking at other peoples code.
+
+What methods do you use to solve an algorithm??
+
+**Link(s) to work** (https://beta.freecodecamp.org/portfolio/fcc32a3df63-0f5f-4db5-b0b2-30224300a7be)
+
+###Day 145/146 May 30th/31st, 2018
+**Today's Progress**: Continued on with the basic javascript exercises on @freeCodeCamp.
+
+**Thoughts** I had a huge surprise when in the middle of my work, beta merged into just freeCodeCamp, that was really exciting.
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)

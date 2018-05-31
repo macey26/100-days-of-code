@@ -498,3 +498,18 @@ Took a break from the pigLatin exercise today and started on exercism exercises
 
 ###R2D41/42
 Decided I needed a break from the pig latin exercise, so I started working through the Javascript Algorithms And Data Structures section on beta freeCodeCamp
+
+###R2D43
+Working through the Javascript Algorithms And Data Structures section on beta #freeCodeCamp. worked through the Arrays section and started on the functions section.
+
+###R2D44
+Made some progress through the function for javascript on beta freeCodeCamp.
+
+I have to confess that I progressed through it last time by, peaking and using other people code. (feel like a fraud)
+
+What methods do you use to solve an algorithm??
+
+###R2D45/46
+Continued on with the basic javascript exercises on @freeCodeCamp.
+
+I had a huge surprise when in the middle of my work, beta merged into just freeCodeCamp, that was really exciting.
