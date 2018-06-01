@@ -513,3 +513,7 @@ What methods do you use to solve an algorithm??
 Continued on with the basic javascript exercises on @freeCodeCamp.
 
 I had a huge surprise when in the middle of my work, beta merged into just freeCodeCamp, that was really exciting.
+
+###R2D47
+Working through the basic javascript @freeCodeCamp. Made it to the else section.
+Found some really good step by step methose for solving code on the @freeCodeCamp forum 

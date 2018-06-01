@@ -1061,3 +1061,11 @@ What methods do you use to solve an algorithm??
 **Thoughts** I had a huge surprise when in the middle of my work, beta merged into just freeCodeCamp, that was really exciting.
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 147 June 1st, 2018
+**Today's Progress**: Working through the basic javascript @freeCodeCamp. Made it to the else section.
+
+**Thoughts** Found some really good step by step methose for solving code on the @freeCodeCamp forum 
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
