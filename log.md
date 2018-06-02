@@ -1069,3 +1069,10 @@ What methods do you use to solve an algorithm??
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
 
+###Day 148 June 1st, 2018
+**Today's Progress**: Attempting to solve Golf code on freeCodeCamp, I have no idea about Golf scoring, but I'm learning about it.
+
+**Thoughts** Really stoked to solve some of the tests my new solving method is working well so far.
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+

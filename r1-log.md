@@ -517,3 +517,9 @@ I had a huge surprise when in the middle of my work, beta merged into just freeC
 ###R2D47
 Working through the basic javascript @freeCodeCamp. Made it to the else section.
 Found some really good step by step methose for solving code on the @freeCodeCamp forum 
+
+###R2D48
+Attempting to solve Golf code on freeCodeCamp, I have no idea about Golf scoring, but I'm learning about it.
+
+Really stoked to solve some of the tests my new solving method is working well so far.
+
