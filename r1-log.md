@@ -523,3 +523,20 @@ Attempting to solve Golf code on freeCodeCamp, I have no idea about Golf scoring
 
 Really stoked to solve some of the tests my new solving method is working well so far.
 
+###R2D49
+Solved golf code @freeCodeCamp and moved onto switch exercises
+
+I'm starting to see that if have patience and not try to worry about the time it takes to solve a problem, it helps me to relax and see whats actually going on. 
+
+I don't know who I thought I was racing before.
+
+###R2D50/51 
+Still working through Basic JS @freeCodeCamp. working through the counting cards challenge.
+
+###R2D52
+ Failing 2 tests on counting cards excercise.
+
+Not sure how I keep returning the wrong answer
+
+###R2D53
+Finished counting cards exercise @freeCodeCamp I kept failing the test because I was repeating the same code twice, so it was returning the wrong value.

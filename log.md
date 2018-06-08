@@ -1069,10 +1069,42 @@ What methods do you use to solve an algorithm??
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
 
-###Day 148 June 1st, 2018
+###Day 148 June 2nd, 2018
 **Today's Progress**: Attempting to solve Golf code on freeCodeCamp, I have no idea about Golf scoring, but I'm learning about it.
 
 **Thoughts** Really stoked to solve some of the tests my new solving method is working well so far.
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
 
+###Day 149 June 3rd, 2018
+**Today's Progress**: Solved golf code @freeCodeCamp and moved onto switch exercises
+
+**Thoughts** I'm starting to see that if have patience and not try to worry about the time it takes to solve a problem, it helpes me to relax and see whats actually going on. I don't know who i thought i was racing before.
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 150 June 4th, 2018
+**Today's Progress**: Still working through Basic JS @freeCodeCamp
+
+**Thoughts**  Doing ok
+
+###Day 151 June 6th, 2018
+**Today's Progress**: working on the counting cards excercise.
+
+**Thoughts** Getting through it.
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 152 June 7th, 2018
+**Today's Progress**: failing 2 tests on counting cards excercise.
+
+**Thoughts** not sure how I keep returning the wrong answer
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 153 June 8th, 2018
+**Today's Progress**: Finished counting cards exercise @freeCodeCamp I kept failing the test because I was repeating the same code twice, so it was returning the wrong value.
+
+**Thoughts** Was really impressed with the effort
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
