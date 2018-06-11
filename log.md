@@ -1108,3 +1108,24 @@ What methods do you use to solve an algorithm??
 **Thoughts** Was really impressed with the effort
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 154 June 9th, 2018
+**Today's Progress**: For some reason I couldn't comprehend some of the javascript excercises today, so I went back and completed some of the new challenges for responsive web design @freeCodeCamp
+
+**Thoughts** I hope my brain returns tomorrow
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 155 June 10th, 2018
+**Today's Progress**: Making some progress with javascript objects @freeCodeCamp
+
+**Thoughts** 
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 156 June 11th, 2018
+**Today's Progress**:Still in the javascript objects section @freeCodeCamp also had a look at some of the new applied visual design challenges too.
+
+**Thoughts** Excited to learn more about making things look a bit nicer
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)

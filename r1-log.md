@@ -540,3 +540,16 @@ Not sure how I keep returning the wrong answer
 
 ###R2D53
 Finished counting cards exercise @freeCodeCamp I kept failing the test because I was repeating the same code twice, so it was returning the wrong value.
+
+###R2D54
+For some reason I couldn't comprehend some of the javascript excercises today, so I went back and completed some of the new challenges for responsive web design @freeCodeCamp
+
+ I hope my brain returns tomorrow
+
+###R2D55
+Making some progress with javascript objects @freeCodeCamp
+
+###R2D56 
+Still in the javascript objects section @freeCodeCamp also had a look at some of the new applied visual design challenges too.
+
+Excited to learn more about making things look a bit nicer
