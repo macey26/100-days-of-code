@@ -1129,3 +1129,17 @@ What methods do you use to solve an algorithm??
 **Thoughts** Excited to learn more about making things look a bit nicer
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 157/58 June 12th/13th 2018
+**Today's Progress**:Working through the applied visual design challenges @freeCodeCamp
+
+**Thoughts** Learning a lot about making things look nice
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 159/60 June 14th/15th 2018
+**Today's Progress**:Working through the applied accessiblitie challenges @freeCodeCamp
+
+**Thoughts** Learning to think more broadly when planning to create web pages.
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)

@@ -553,3 +553,11 @@ Making some progress with javascript objects @freeCodeCamp
 Still in the javascript objects section @freeCodeCamp also had a look at some of the new applied visual design challenges too.
 
 Excited to learn more about making things look a bit nicer
+
+###R2D57/58
+Working through the applied visual design challenges @freeCodeCamp
+
+###R2D59/60
+Working through the applied accessiblitie challenges @freeCodeCamp
+
+Learning to think more broadly when planning web pages.
