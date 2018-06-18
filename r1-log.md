@@ -561,3 +561,6 @@ Working through the applied visual design challenges @freeCodeCamp
 Working through the applied accessiblitie challenges @freeCodeCamp
 
 Learning to think more broadly when planning web pages.
+
+###R2D61/62
+Made it through the accessibiltiy challenges @freeCodeCamp now learning flex-box

@@ -1143,3 +1143,10 @@ What methods do you use to solve an algorithm??
 **Thoughts** Learning to think more broadly when planning to create web pages.
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 161/62 June 16th/18th 2018
+**Today's Progress**:Made it through the accessibiltiy challenges @freeCodeCamp now learning flex-box
+
+**Thoughts** Ive never learn flex-box before.
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
