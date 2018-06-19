@@ -564,3 +564,6 @@ Learning to think more broadly when planning web pages.
 
 ###R2D61/62
 Made it through the accessibiltiy challenges @freeCodeCamp now learning flex-box
+
+###R2D63
+Made it through the flex-box challenges @freeCodeCamp now learning CSS grid

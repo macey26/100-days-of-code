@@ -1150,3 +1150,10 @@ What methods do you use to solve an algorithm??
 **Thoughts** Ive never learn flex-box before.
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+###Day 163 June 19th 2018
+**Today's Progress**:Made it through the flex-box challenges @freeCodeCamp now learning CSS grid
+
+**Thoughts** getting through it
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
