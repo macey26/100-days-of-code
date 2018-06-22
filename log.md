@@ -1157,3 +1157,14 @@ What methods do you use to solve an algorithm??
 **Thoughts** getting through it
 
 **Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+
+
+###Day 164/65 June 21st/22nd 2018
+**Today's Progress**:Started work on survey form @freeCodeCamp
+Also started the rails installfest on my new laptop
+
+
+**Thoughts** Enjoying the new laptop
+
+**Link(s) to work** (https://www.freecodecamp.org/portfolio/macey26)
+###

@@ -567,3 +567,8 @@ Made it through the accessibiltiy challenges @freeCodeCamp now learning flex-box
 
 ###R2D63
 Made it through the flex-box challenges @freeCodeCamp now learning CSS grid
+
+###R2D64/65
+Started work on survey form @freeCodeCamp
+Also started the rails installfest on my new laptop
+
